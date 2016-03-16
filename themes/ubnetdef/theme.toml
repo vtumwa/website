@@ -1,0 +1,12 @@
+name = "UBNETDEF"
+license = "MIT"
+licenselink = "https://github.com/ubnetdef/website/blob/master/LICENSE.md"
+description = "UBNETDEF's website theme"
+homepage = "https://ubnetdef.org/"
+tags = ["bootstrap"]
+features = ["?"]
+min_version = 0.14
+
+[author]
+  name = "James Droste"
+  homepage = "https://james.droste.im"
