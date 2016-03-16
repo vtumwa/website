@@ -4,4 +4,4 @@ title = "About"
 menu = "MainLeft"
 +++
 
-University at Buffalo's Network Defense class/club.
+UB Network Defense is a special hybrid class/club.
