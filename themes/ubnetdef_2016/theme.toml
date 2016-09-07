@@ -1,7 +1,7 @@
-name = "UBNETDEF"
+name = "UBNetDef 2016"
 license = "MIT"
 licenselink = "https://github.com/ubnetdef/website/blob/master/LICENSE.md"
-description = "UBNETDEF's website theme"
+description = "UBNETDEF's 2016 website theme"
 homepage = "https://ubnetdef.org/"
 tags = ["bootstrap"]
 features = ["?"]

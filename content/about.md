@@ -1,8 +1,7 @@
-+++
-date = "2016-03-15T01:42:19-04:00"
-draft = true
-title = "About"
-menu = "MainLeft"
-+++
+---
+date: "2016-09-01"
+title: "About"
+navbar_active_link: "about"
+---
 
-UB Network Defense is a special hybrid class/club.
+# Hello, World

@@ -1,0 +1,47 @@
+baseurl: "https://ubnetdef.org/"
+languageCode: "en-us"
+title: "UBNetDef"
+theme: "ubnetdef_2016"
+
+menu:
+  main:
+    - Name: "about"
+      Weight: -100
+      URL: "/about"
+
+    - Name: "courses"
+      Weight: -90
+    - Name: "Systems Security"
+      Weight: 10
+      URL: "/courses/syssec"
+      Parent: "courses"
+    - Name: "Network Security"
+      Weight: 20
+      URL: "/courses/netsec"
+      Parent: "courses"
+    - Name: "Security Development Program"
+      Weight: 30
+      URL: "/courses/secdev"
+      Parent: "courses"
+
+    - Name: "lectures"
+      Weight: -80
+      URL: "/lectures"
+
+    - Name: "competitions"
+      Weight: -70
+    - Name: "Lockdown v1"
+      Weight: -100
+      URL: "/competitions/lockdown_v1"
+      Parent: "competitions"
+    - Name: "---"
+      Weight: 0
+      Parent: "competitions"
+    - Name: "Lockdown v0"
+      Weight: 100
+      URL: "/competitions/lockdown_v0"
+      Parent: "competitions"
+
+    - Name: "wiki"
+      Weight: -50
+      URL: "https://wiki.ubnetdef.org"

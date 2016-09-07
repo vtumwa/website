@@ -1,0 +1,11 @@
+{{ partial "header" . }}
+
+<div class="container">
+	<div class="page-header">
+		<h1>{{ .Title }} <small>{{ .Date.Format "January 1, 2006" }} // {{ .Params.author }}</small></h1>
+	</div>
+
+	{{ .Content }}
+</div>
+
+{{ partial "footer" . }}
