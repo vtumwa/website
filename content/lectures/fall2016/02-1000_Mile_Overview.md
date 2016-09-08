@@ -5,7 +5,7 @@ title: "The 1000 Mile Overview"
 course: "Systems Security - Fall 2016"
 author: "Aaron Fiebelkorn & Jered Geist"
 
-slug: "/lectures/2016/1000_mile_overview"
+slug: "1000_mile_overview"
 navbar_active_link: "lectures"
 
 summary: |

@@ -5,7 +5,7 @@ title: "Welcome to UBNetDef"
 course: "Systems Security - Fall 2016"
 author: "The UBNetDef Team"
 
-slug: "/lectures/2016/welcome_to_ubnetdef"
+slug: "welcome_to_ubnetdef"
 navbar_active_link: "lectures"
 
 summary: |
