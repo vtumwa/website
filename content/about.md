@@ -4,4 +4,4 @@ title: "About"
 navbar_active_link: "about"
 ---
 
-# Hello, World
+University at Buffalo Network Defense is a Cyber Security class & club.
