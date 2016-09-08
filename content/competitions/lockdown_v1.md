@@ -4,4 +4,6 @@ title: "Lockdown v1"
 navbar_active_link: "competitions"
 ---
 
-Soon...
+Lockdown v1 will be an intermediate skill-level competition.  It is tentatively planned for November 19, 2016.
+
+Expect more details in the upcoming weeks.
