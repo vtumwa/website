@@ -213,5 +213,15 @@ The total score for the presentation is computed by the number of earned points 
 ## Office Hours
 Office hours are dynamic, flexible, and provided on an as-needed basis.  Students state a need to meet with the instructor during the daily sync meeting, and the instructor and student schedule a mutually agreeable time to meet on Google Hangouts.
 
-## Academic Integrity
+## Course Conduct
+### Academic Integrity
 Students must conduct their coursework in a manner that does not violate the University at Buffalo’s Academic Integrity Policy.  Students found in violation of the [Academic Integrity Policy](http://undergrad-catalog.buffalo.edu/policies/course/integrity.html) will receive an F for the course.
+
+### Ethics Policy
+As a student in cyber security, you are learning tools and given resources that are meant to help protect yourself and others. However, these tools and resources can also be used in malicious or illegal ways. It is imperative that while you are a representative of this class, and even well after, you perform any security education or training strictly inside our internal environment or a controlled and contained environment that you have prepared for yourself. Any activity outside of our internal environment is outside of our control and protection. If you are not sure what you’re doing, it is very easy to do something illegal without even knowing you are (even something as simple as port scanning outside our internal network). If you are unsure if something is allowed or not, contact one of the instructors or mentors. **All network traffic inside our infrastructure will be monitored for malicious or suspicious activity and acted upon with severe consequences if such privileges are abused.** You are being given an opportunity to learn, please do not waste it.
+
+### vCenter Usage
+As a part of the Network Security course, you are granted elevated permissions permissions inside the vCenter environment.  Any misuse of the environment will result in the **immediate failure of the student, as well as academic dishonesty charges being filed.**
+
+### Network Logging Disclaimer
+All traffic that occurs within the vCenter environment is being **logged** for analysis purposes.  Traffic captures (pcaps) may be shared with other individuals within UBNetDef for educational purposes only. **We highly discourage logging into any personal or social networking websites on a Virtual Machine hosted in the vCenter environment.**
