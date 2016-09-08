@@ -29,7 +29,7 @@ Say hello to everyone around you!
     * 2nd Year, Master of Business Administration
     * "The Golden Child"
 * [Alex Mazzei](https://www.linkedin.com/in/ammazzei)
-    * 2nd Year, Management and Information Systems Graduate Student
+    * 2nd Year, Management Information Systems Graduate Student
     * friendship manager & full of sparkle
 * [James Droste](https://james.droste.im)
     * Senior, Computer Science
