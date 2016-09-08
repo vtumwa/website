@@ -15,32 +15,32 @@ slides: "https://docs.google.com/presentation/d/10swMeeUIXrMP37ADofemmwRh84b1pBN
 ---
 
 # The Overview
-## What is cyber security (or information assurance, information security)?
-.
+What is cyber security (or information assurance, information security)?
 
 ## Pillars of Cyber Security
-Also known as the CIA Triangle (Confidentiality Integrity Availability)
-
-## Intro to Information Flow
-.
+CIA Triangle (Availability how easy access to data, making sure services up and running, Confidentiality permission levels and Integrity making sure the data is correct encryption and hashes)
 
 ### OSI Model
-.
-
-### Security Architecture
-.
+* 1 Physical
+* 2 Data-Link
+* 3 Network
+* 4 Transport
+* 5 Session
+* 6 Presentation
+* 7 Application
 
 ## The Hats
-Black, Grey, White Hat
+* White Hat- Someone who testing network venerability for positive outcome. Help patch and protect and they have good intention. Law and permission and hack ethics. Have scope professional 
+* Gray Hat – Bounty Hunters. Thin line, 30 days to patch this or we release it to the world
+* Black Hat-  no permission for personal gain. No ethical hacking.
 
 ### Cyber Threat Landscape
-.
+* Target Breach
+* Use Various Tools (Phishing, Social Engineering, Hardware, New Threats) 
 
 ### Cyber Competitions - Red/Blue/Purple?
-.
-
-## Careers
-.
+* Blue Team: Trying to defend the network
+* Red Team: Make different shapes and sizes (penetration testing
 
 <hr />
 
