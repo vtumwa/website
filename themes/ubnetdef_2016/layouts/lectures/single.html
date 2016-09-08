@@ -5,7 +5,20 @@
 		<h1>{{ .Title }} <small>{{ .Date.Format "January 1, 2006" }} // {{ .Params.author }}</small></h1>
 	</div>
 
-	{{ .Content }}
+	<div class="row">
+		<div class="col-md-8">
+			{{ .Content }}
+		</div>
+		<div class="col-md-4">
+			{{ if .Params.slides }}
+			<div class="well">
+				<a href="{{ .Params.slides }}" class="btn btn-primary btn-block" target="_new">Slideshow</a>
+			</div>
+			{{ end }}
+
+			{{ .TableOfContents }}
+		</div>
+	</div>
 </div>
 
 {{ partial "footer" . }}
