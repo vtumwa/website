@@ -5,6 +5,9 @@ navbar_active_link: "courses"
 
 subtext: "Fall 2016 / Jacobs B30 / Thursdays 6:30PM - 9:30PM"
 ---
+<div class="alert alert-warning">
+	<p><strong>Heads Up!</strong> - This page is considered a living document. There will be some slight changes as we finalize certain aspects.</p>
+</div>
 
 ## Overview
 During this introductory course, geared for students new to cyber security, students will be introduced to fundamental security topics.  Students will critically examine concepts such as basic networking, system administration, and system security as well as identifying and applying basic security hardening techniques.  Students will gain practical experience through a virtualized lab environment where they will be building a small corporate network.
@@ -65,6 +68,16 @@ Student Instructors are responsible for running the class.  Most questions, unle
 			<td>Jered Geist</td>
 			<td>jeredgei@buffalo.edu</td>
 			<td>jered</td>
+		</tr>
+		<tr>
+			<td>Stefan Jagroop</td>
+			<td>stefanja@buffalo.edu</td>
+			<td>stefanja</td>
+		</tr>
+		<tr>
+			<td>Tanmay Bhagwat</td>
+			<td>tanmaybh@buffalo.edu</td>
+			<td>usmarine</td>
 		</tr>
 	</tbody>
 </table>
@@ -136,17 +149,136 @@ Attendance for all lectures is **mandatory** and each absence will result in a *
 
 ### Homework Assignments
 <div class="alert alert-info">
-	This list of homework assignments is subject to change.  For an up-to-date list, please visit the course website.
+	<p><i class="glyphicon glyphicon-info-sign"></i> This list of homework assignments is subject to change.</p>
 </div>
 
-#### Build-A-Network Project
+<table class="table table-bordered">
+	<thead>
+		<tr>
+			<td style="width: 60%">Homework</td>
+			<td style="width: 25%">Due Date</td>
+			<td style="width: 5%">Report</td>
+			<td style="width: 5%">vCenter</td>
+			<td style="width: 5%">Wiki</td>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>CyberSecurity Job Postings</td>
+			<td>September 15, 2016 @ 6:00PM</td>
+			<td><i class="glyphicon glyphicon-ok"></i></td>
+			<td><i class="glyphicon glyphicon-remove"></i></td>
+			<td><i class="glyphicon glyphicon-remove"></i></td>
+		</tr>
+		<tr>
+			<td>Topology of the LAN to their WAN</td>
+			<td>September 22, 2016 @ 6:00PM</td>
+			<td><i class="glyphicon glyphicon-ok"></i></td>
+			<td><i class="glyphicon glyphicon-remove"></i></td>
+			<td><i class="glyphicon glyphicon-remove"></i></td>
+		</tr>
+		<tr>
+			<td>pfSense VM Setup</td>
+			<td>September 29, 2016 @ 6:00PM</td>
+			<td><i class="glyphicon glyphicon-remove"></i></td>
+			<td><i class="glyphicon glyphicon-ok"></i></td>
+			<td><i class="glyphicon glyphicon-ok"></i></td>
+		</tr>
+		<tr>
+			<td>{Windows, Linux} Client Setup</td>
+			<td>October 6, 2016 @ 6:00PM</td>
+			<td><i class="glyphicon glyphicon-remove"></i></td>
+			<td><i class="glyphicon glyphicon-ok"></i></td>
+			<td><i class="glyphicon glyphicon-ok"></i></td>
+		</tr>
+		<tr>
+			<td>{Web, Database} Server VM Setup</td>
+			<td>October 13, 2016 @ 6:00PM</td>
+			<td><i class="glyphicon glyphicon-remove"></i></td>
+			<td><i class="glyphicon glyphicon-ok"></i></td>
+			<td><i class="glyphicon glyphicon-ok"></i></td>
+		</tr>
+		<tr>
+			<td>Windows Server VM Setup</td>
+			<td>October 20, 2016 @ 6:00PM</td>
+			<td><i class="glyphicon glyphicon-remove"></i></td>
+			<td><i class="glyphicon glyphicon-ok"></i></td>
+			<td><i class="glyphicon glyphicon-ok"></i></td>
+		</tr>
+		<tr>
+			<td>Implementing a Password Policy Report</td>
+			<td>October 27, 2016 @ 6:00PM</td>
+			<td><i class="glyphicon glyphicon-ok"></i></td>
+			<td><i class="glyphicon glyphicon-remove"></i></td>
+			<td><i class="glyphicon glyphicon-remove"></i></td>
+		</tr>
+		<tr>
+			<td>Post-Mortem Incident Report</td>
+			<td>October 27, 2016 @ 6:00PM</td>
+			<td><i class="glyphicon glyphicon-ok"></i></td>
+			<td><i class="glyphicon glyphicon-remove"></i></td>
+			<td><i class="glyphicon glyphicon-remove"></i></td>
+		</tr>
+		<tr>
+			<td>Firewall Rules Implementation</td>
+			<td>November 3, 2016 @ 6:00PM</td>
+			<td><i class="glyphicon glyphicon-remove"></i></td>
+			<td><i class="glyphicon glyphicon-ok"></i></td>
+			<td><i class="glyphicon glyphicon-ok"></i></td>
+		</tr>
+		<tr>
+			<td>TBD</td>
+			<td>November 10, 2016 @ 6:00PM</td>
+			<td><i class="glyphicon glyphicon-remove"></i></td>
+			<td><i class="glyphicon glyphicon-remove"></i></td>
+			<td><i class="glyphicon glyphicon-remove"></i></td>
+		</tr>
+		<tr>
+			<td>TBD</td>
+			<td>November 10, 2016 @ 6:00PM</td>
+			<td><i class="glyphicon glyphicon-remove"></i></td>
+			<td><i class="glyphicon glyphicon-remove"></i></td>
+			<td><i class="glyphicon glyphicon-remove"></i></td>
+		</tr>
+		<tr>
+			<td>TBD</td>
+			<td>November 16, 2016 @ 6:00PM</td>
+			<td><i class="glyphicon glyphicon-remove"></i></td>
+			<td><i class="glyphicon glyphicon-remove"></i></td>
+			<td><i class="glyphicon glyphicon-remove"></i></td>
+		</tr>
+		<tr>
+			<td colspan="2">Thanksgiving</td>
+			<td><i class="glyphicon glyphicon-remove"></i></td>
+			<td><i class="glyphicon glyphicon-remove"></i></td>
+			<td><i class="glyphicon glyphicon-remove"></i></td>
+		</tr>
+		<tr>
+			<td>TBD</td>
+			<td>December 1, 2016 @ 6:00PM</td>
+			<td><i class="glyphicon glyphicon-remove"></i></td>
+			<td><i class="glyphicon glyphicon-remove"></i></td>
+			<td><i class="glyphicon glyphicon-remove"></i></td>
+		</tr>
+		<tr>
+			<td>TBD</td>
+			<td>December 8, 2016 @ 6:00PM</td>
+			<td><i class="glyphicon glyphicon-remove"></i></td>
+			<td><i class="glyphicon glyphicon-remove"></i></td>
+			<td><i class="glyphicon glyphicon-remove"></i></td>
+		</tr>
+	</tbody>
+</table>
+
+#### Extra Mile Deliverables
 As a note, the “Extra Mile” deliverables were created for advanced students who already know the material.  Completion of Extra Mile deliverables is for “bragging rights” only.  No additional or bonus points will be awarded if a group completes them.  We will, however, stress that groups should do them, and possibly create a leaderboard for them as well.
 
 #### Report Policies
+TBA.
 
 ### Competition Participation
 <div class="alert alert-info">
-	The Crucible, a competition that happens during the semester in Systems Security, **does not count** for this requirement.
+	The Crucible, a competition that happens during the semester in Systems Security, <strong>does not count</strong> for this requirement.
 </div>
 
 All students are required to participate fully in a Cyber Security competition, as well as the UB Lockdown competition.  Various competitions will be announced throughout the academic semester.
@@ -155,48 +287,64 @@ All students are required to participate fully in a Cyber Security competition, 
 The best way to request assistance is to ask on the `#syssec` channel on UBNetDef’s slack.  The instructors and mentors are constantly on the slack, so it’s likely you will get a response within 24-hours, if not less.  If you do not have access to the UBNetDef slack, please contact an instructor.
 
 ## Grading Policy
-Grading is done on a point scale, with a max available points of 2600.  Late submissions are accepted, however, there will be a deduction of 50 points per week the deliverable due is late.
+<div class="row">
+	<div class="col-md-8">
+		<p>Grading is done on a point scale, with a max available points of 2600.  Late submissions are accepted, however, there will be a deduction of 50 points per week the deliverable due is late.</p>
 
-Points are accumulated by the following ways:
+		<p>Points are accumulated by the following ways:</p>
 
-1. Assignments - 1800 Points
-  1. Build-A-Network: 600 Points
-  2. Wiki Guides: 600 Points
-  3. Reports: 600 Points
-2. Competition Participation - 800 Points
-  1. Competitions will be announced during the semester.  Examples include: National Cyber League, UB Lockdown, RIT ISTS, Alfred State ASIST.
-  2. Each competition attended is worth 400 points.
+		<ol>
+			<li>Assignments - 1800 Points
+				<ol>
+					<li>Build-A-Network: 600 Points</li>
+					<li>Wiki Guides: 600 Points</li>
+					<li>Reports: 600 Points</li>
+				</ol>
+			</li>
+			<li>Competition Participation - 800 Points
+				<ol>
+					<li>Competitions will be announced during the semester.  Examples include: National Cyber League, UB Lockdown, RIT ISTS, Alfred State ASIST.</li>
+					<li>Each competition attended is worth 400 points.</li>
+				</ol>
+			</li>
+		</ol>
+	</div>
+	<div class="col-md-4">
+		<table class="table table-bordered" style="max-width: 300px;">
+			<thead>
+				<tr>
+					<td colspan="2">Systems Security Grading Scale</td>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td>A</td>
+					<td>2000-2600 Points</td>
+				</tr>
 
-The grading scale is as follows:
+				<tr>
+					<td>B</td>
+					<td>1400-1900 Points</td>
+				</tr>
 
-<table class="table">
-	<tbody>
-		<tr>
-			<td>A</td>
-			<td>2000-2600 Points</td>
-		</tr>
+				<tr>
+					<td>C</td>
+					<td>800-1300 Points</td>
+				</tr>
 
-		<tr>
-			<td>B</td>
-			<td>1400-1900 Points</td>
-		</tr>
+				<tr>
+					<td>D</td>
+					<td>400-700 Points</td>
+				</tr>
 
-		<tr>
-			<td>C</td>
-			<td>800-1300 Points</td>
-		</tr>
-
-		<tr>
-			<td>D</td>
-			<td>400-700 Points</td>
-		</tr>
-
-		<tr>
-			<td>F</td>
-			<td>0-300 Points</td>
-		</tr>
-	</tbody>
-</table>
+				<tr>
+					<td>F</td>
+					<td>0-300 Points</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+</div>
 
 ## Course Conduct
 ### Academic Integrity
