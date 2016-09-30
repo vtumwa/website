@@ -33,7 +33,7 @@ menu:
       Weight: -70
     - Name: "Lockdown v1"
       Weight: -100
-      URL: "/competitions/lockdown_v1"
+      URL: "https://lockdown.ubnetdef.org"
       Parent: "competitions"
     - Name: "---"
       Weight: 0
