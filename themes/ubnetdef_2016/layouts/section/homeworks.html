@@ -9,7 +9,7 @@
 	<h2>{{ .Key }}</h2>
 
 	{{ range .Pages.ByDate.Reverse }}
-	<h3>{{ if .Params.active }}<span class="label label-success">OPEN</span>{{ end }} <a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+	<h3><a href="{{ .Permalink }}">{{ if .Params.active }}<span class="label label-success">OPEN</span> {{ end }}{{ .Title }}</a></h3>
 	<p><small>Due Date: {{ .Params.due }}</small></p>
 	{{ end }}
 
