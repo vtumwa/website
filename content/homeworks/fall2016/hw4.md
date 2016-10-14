@@ -6,6 +6,7 @@ draft: true
 
 course: "Systems Security - Fall 2016"
 due: "Never"
+active: false
 ---
 
 ## Preface
