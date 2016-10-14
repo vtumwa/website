@@ -9,7 +9,8 @@ slug: "client_machines"
 navbar_active_link: "lectures"
 
 summary: |
-  Coming soon!
+  Introduction to our favorite use of
+  computers - Client Machines.
 
 slides: "#"
 ---

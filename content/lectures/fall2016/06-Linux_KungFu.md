@@ -9,7 +9,8 @@ slug: "linux_kungfu"
 navbar_active_link: "lectures"
 
 summary: |
-  Coming soon!
+  So I heard you want to become a command
+  line master? We got you covered!
 
 slides: "/slides/fall2016/linux_kungfu.pdf"
 ---
