@@ -16,6 +16,12 @@
 			</div>
 			{{ end }}
 
+			{{ if .Params.homework }}
+			<div class="well">
+				<a href="{{ .Params.homework }}" class="btn btn-info btn-block">Homework</a>
+			</div>
+			{{ end }}
+
 			{{ .TableOfContents }}
 		</div>
 	</div>

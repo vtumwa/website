@@ -8,6 +8,8 @@ author: "Jered Geist"
 slug: "windows"
 navbar_active_link: "lectures"
 
+homework: "/homeworks/fall2016/hw6"
+
 summary: |
   You can't escape using Windows Server,
   so here's how to tame it.

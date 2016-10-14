@@ -1,0 +1,19 @@
+{{ partial "header" . }}
+
+<div class="container">
+	<div class="page-header">
+		<h1>Homeworks</h1>
+	</div>
+
+	{{ range .Data.Pages.GroupByParam "course" }}
+	<h2>{{ .Key }}</h2>
+
+	{{ range .Pages.ByDate.Reverse }}
+	<h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+	<p><small>Due Date: {{ .Params.due }}</small></p>
+	{{ end }}
+
+	{{ end }}
+</div>
+
+{{ partial "footer" . }}
