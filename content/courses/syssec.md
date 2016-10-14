@@ -149,7 +149,7 @@ Attendance for all lectures is **mandatory** and each absence will result in a *
 
 ### Homework Assignments
 <div class="alert alert-info">
-	<p><i class="glyphicon glyphicon-info-sign"></i> This list of homework assignments is subject to change.</p>
+	<p><i class="glyphicon glyphicon-info-sign"></i> This list of homework assignments is subject to change. For an up-to-date list, please check <a href="/homeworks">here</a>.</p>
 </div>
 
 <table class="table table-bordered">
