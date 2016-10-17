@@ -30,6 +30,7 @@ This is to ensure we can fix any issues that arise in the future.
 
 ### Windows Server Setup
 * Setup Windows 2012 R2 on your Virtual Machine called `Windows Server`
+    * When setting up, use the trial key localted [here](http://blog.techygeekshome.info/2015/04/windows-server-2012-r2-evaluation-activation/)
 * On `Window Server`, setup Active Directory.  Name it however you want.
 * Create two users on the Active Directory instance on `Windows Server`.
 * Join your `Windows Client` to the Active Directory you just created.
