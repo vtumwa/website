@@ -29,7 +29,7 @@ Please include all credentials to your Virtual Machines in your submission docum
 This is to ensure we can fix any issues that arise in the future.
 
 ### Windows Server Setup
-* Setup Windows 2008 or 2012 on your Virtual Machine called `Windows Server`
+* Setup Windows 2012 R2 on your Virtual Machine called `Windows Server`
 * On `Window Server`, setup Active Directory.  Name it however you want.
 * Create two users on the Active Directory instance on `Windows Server`.
 * Join your `Windows Client` to the Active Directory you just created.
