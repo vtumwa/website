@@ -1,9 +1,9 @@
 ---
-date: "2016-09-01"
+date: "2017-01-30"
 title: "Security Development Program"
 navbar_active_link: "courses"
 
-subtext: "Fall 2016 / Jacobs B30 / Thursdays 6:30PM - 9:30PM"
+subtext: "Spring 2017 / Jacobs B30 / Thursdays 6:30PM - 9:30PM"
 ---
 
 ## Overview

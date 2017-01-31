@@ -1,9 +1,9 @@
 ---
-date: "2016-09-01"
+date: "2017-01-30"
 title: "Network Security"
 navbar_active_link: "courses"
 
-subtext: "Fall 2016 / Online / Daily"
+subtext: "Spring 2017 / Online / Daily"
 ---
 
 ## Overview
