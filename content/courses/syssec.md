@@ -1,9 +1,9 @@
 ---
-date: "2016-09-01"
+date: "2017-01-30"
 title: "Systems Security"
 navbar_active_link: "courses"
 
-subtext: "Fall 2016 / Jacobs B30 / Thursdays 6:30PM - 9:30PM"
+subtext: "Spring 2017 / Jacobs B30 / Thursdays 6:30PM - 9:30PM"
 ---
 <div class="alert alert-warning">
 	<p><strong>Heads Up!</strong> - This page is considered a living document. There will be some slight changes as we finalize certain aspects.</p>
@@ -50,19 +50,9 @@ Student Instructors are responsible for running the class.  Most questions, unle
 	</thead>
 	<tbody>
 		<tr>
-			<td>Aaron Fiebelkorn</td>
-			<td>amf42@buffalo.edu</td>
-			<td>a-a-ron</td>
-		</tr>
-		<tr>
-			<td>Alexandra Mazzei</td>
-			<td>ammazzei@buffalo.edu</td>
-			<td>becausealex</td>
-		</tr>
-		<tr>
-			<td>James Droste</td>
-			<td>jamesdro@buffalo.edu</td>
-			<td>james</td>
+			<td>Cameron Levine</td>
+			<td>crlevine@buffalo.edu</td>
+			<td>cameron</td>
 		</tr>
 		<tr>
 			<td>Jered Geist</td>
@@ -70,14 +60,14 @@ Student Instructors are responsible for running the class.  Most questions, unle
 			<td>jered</td>
 		</tr>
 		<tr>
+			<td>Nick Brase</td>
+			<td>nrbrase@buffalo.edu</td>
+			<td>nickbrase</td>
+		</tr>
+		<tr>
 			<td>Stefan Jagroop</td>
 			<td>stefanja@buffalo.edu</td>
 			<td>stefanja</td>
-		</tr>
-		<tr>
-			<td>Tanmay Bhagwat</td>
-			<td>tanmaybh@buffalo.edu</td>
-			<td>usmarine</td>
 		</tr>
 	</tbody>
 </table>
