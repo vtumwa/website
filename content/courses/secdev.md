@@ -34,7 +34,78 @@ During this advanced course, geared for students experienced in cyber security, 
 
 ## Course Recommendations
 Due to the nature and complexity of the Security Development Program, prospective students interested in taking the Security Development Program should evaluate his/her own skills using the table below.  Each student should have at least 6 points before attempting SecDev as the individuals are role models and will be taking on a self motivated education. If an individual does not meet the recommended points, he/she can still join but will be held to the same standards as a fellow SecDev student. Failure to meet responsibilities will be confronted in a meeting.  Continuation will result in asking the student to step down to another program.
- 
+
+<table class="table">
+	<thead>
+		<tr>
+			<th>Item</th>
+			<th>Point Value</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Windows System Administration - Basic</td>
+			<td>1pt</td>
+		</tr>
+		<tr>
+			<td>Windows System Administration - Advanced (Including Active Directory Proficiency)</td>
+			<td>2pts</td>
+		</tr>
+		<tr>
+			<td>Linux System Administration - Basic</td>
+			<td>1pt</td>
+		</tr>
+		<tr>
+			<td>Linux System Administration - Advanced</td>
+			<td>2pts</td>
+		</tr>
+		<tr>
+			<td>Networking Basic (OSI and TCP/IP Model)</td>
+			<td>1pt</td>
+		</tr>
+		<tr>
+			<td>Networking Advanced (Subnetting, Firewalls, Ports, Packet Analysis)</td>
+			<td>2pts</td>
+		</tr>
+		<tr>
+			<td>Risk Management/Governance</td>
+			<td>1pt</td>
+		</tr>
+		<tr>
+			<td>Compliance (FISMA, HIPAA, PCI, etc)</td>
+			<td>2pts</td>
+		</tr>
+		<tr>
+			<td>Penetration Testing - Basic</td>
+			<td>1pt</td>
+		</tr>
+		<tr>
+			<td>Penetration Testing - Advanced</td>
+			<td>2pts</td>
+		</tr>
+		<tr>
+			<td>Virtualization - Basic</td>
+			<td>1pt</td>
+		</tr>
+		<tr>
+			<td>Virtualization - Advanced</td>
+			<td>spt</td>
+		</tr>
+		<tr>
+			<td>IT Project Management Basic - Classes</td>
+			<td>1pt</td>
+		</tr>
+		<tr>
+			<td>Information Assurance MGS-650 - Class</td>
+			<td>2pts</td>
+		</tr>
+		<tr>
+			<td>IT Project Management Advanced - Experience</td>
+			<td>1pt</td>
+		</tr>
+	</tbody>
+</table>
+
 ## Student Learning Outcomes
 <table class="table">
 	<thead>
