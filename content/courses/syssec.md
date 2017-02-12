@@ -1,4 +1,4 @@
----
+﻿---
 date: "2017-01-30"
 title: "Systems Security"
 navbar_active_link: "courses"
@@ -69,6 +69,12 @@ Student Instructors are responsible for running the class.  Most questions, unle
 			<td>stefanja@buffalo.edu</td>
 			<td>stefanja</td>
 		</tr>
+		<tr>
+			<td>Jean-Baptiste Turroc</td>
+			<td>jturroc@buffalo.edu</td>
+			<td>jb</td>
+		</tr>
+
 	</tbody>
 </table>
 
