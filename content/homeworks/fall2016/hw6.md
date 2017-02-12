@@ -4,7 +4,7 @@ title: "Homework #6"
 
 course: "Systems Security - Fall 2016"
 due: "October 20, 2016 @ 6:00PM"
-active: true
+active: false
 ---
 
 ## Preface
