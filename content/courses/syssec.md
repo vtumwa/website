@@ -1,4 +1,4 @@
----
+﻿---
 date: "2017-01-30"
 title: "Systems Security"
 navbar_active_link: "courses"
@@ -75,7 +75,7 @@ Student Instructors are responsible for running the class.  Most questions, unle
 			<td>stefanja</td>
 		</tr>
         <tr>
-			<td>Steven James</td>
+			<td>Stephen James</td>
 			<td>sj<a href="https://goo.gl/forms/Akc2mpeOEJF3s1Ji1">a</a>mes5@buffalo.edu</td>
 			<td>stephenorjames</td>
 		</tr>
