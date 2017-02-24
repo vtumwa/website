@@ -49,6 +49,11 @@ Student Instructors are responsible for running the class.  Most questions, unle
 		</tr>
 	</thead>
 	<tbody>
+        <tr>
+			<td>Benjamin Kasman</td>
+			<td>bjkasman@buffalo.edu</td>
+			<td>Bjkasman </td>
+		</tr>
 		<tr>
 			<td>Cameron Levine</td>
 			<td>crlevine@buffalo.edu</td>
@@ -68,6 +73,11 @@ Student Instructors are responsible for running the class.  Most questions, unle
 			<td>Stefan Jagroop</td>
 			<td>stefanja@buffalo.edu</td>
 			<td>stefanja</td>
+		</tr>
+        <tr>
+			<td>Steven James</td>
+			<td>sj<a href="https://goo.gl/forms/Akc2mpeOEJF3s1Ji1">a</a>mes5@buffalo.edu</td>
+			<td>stephenorjames</td>
 		</tr>
 		<tr>
 			<td>Jean-Baptiste Turroc</td>
