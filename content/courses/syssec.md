@@ -76,7 +76,7 @@ Student Instructors are responsible for running the class.  Most questions, unle
 		</tr>
         <tr>
 			<td>Stephen James</td>
-			<td>sj<a href="https://goo.gl/forms/Akc2mpeOEJF3s1Ji1">a</a>mes5@buffalo.edu</td>
+			<td>sjames5@buffalo.edu</td>
 			<td>stephenorjames</td>
 		</tr>
 		<tr>
