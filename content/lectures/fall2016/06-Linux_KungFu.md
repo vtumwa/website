@@ -15,6 +15,6 @@ summary: |
   line master? We got you covered!
 
 slides: "/slides/fall2016/linux_kungfu.pdf"
----
 
-# Coming soon!
+has_page: false
+---

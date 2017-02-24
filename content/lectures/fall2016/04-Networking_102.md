@@ -9,9 +9,9 @@ slug: "networking_102"
 navbar_active_link: "lectures"
 
 summary: |
-  Coming soon!
+  Networking. Part 2. Expect greatness.
 
 slides: "/slides/fall2016/networking_102.pdf"
----
 
-# Coming soon!
+has_page: false
+---

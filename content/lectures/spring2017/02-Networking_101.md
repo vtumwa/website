@@ -13,6 +13,6 @@ summary: |
   We will be starting from the ground up.
 
 slides: "/slides/spring2017/networking_101.pdf"
----
 
-# Coming soon!
+has_page: false
+---

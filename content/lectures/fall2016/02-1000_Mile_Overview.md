@@ -12,6 +12,8 @@ summary: |
   Take a high-level view into the basics of security.
 
 slides: "https://docs.google.com/presentation/d/10swMeeUIXrMP37ADofemmwRh84b1pBNtWVMYuIld7mw"
+
+has_page: true
 ---
 
 # The Overview

@@ -5,11 +5,16 @@
 		<h1>Lectures</h1>
 	</div>
 
-	{{ range .Data.Pages.GroupByParam "course" }}
+	{{ range (.Data.Pages.GroupByParam "course").Reverse }}
 	<h2>{{ .Key }}</h2>
 
 	{{ range .Pages.ByDate.Reverse }}
+	{{ if and (isset .Params "has_page") (.Params.has_page) }}
 	<h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+	{{ else }}
+	<h3><a href="{{ .Params.slides }}">{{ .Title }}</a></h3>
+	{{ end }}
+
 	<p><small>{{ .Date.Format "2006-01-02" }} // {{ .Params.author }}</small></p>
 
 	<p>{{ .Params.summary }}</p>

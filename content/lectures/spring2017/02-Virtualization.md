@@ -12,6 +12,6 @@ summary: |
   A quick overview of virtualization.
 
 slides: "/slides/spring2017/virtualization.pdf"
----
 
-# Coming soon!
+has_page: false
+---

@@ -10,6 +10,8 @@ navbar_active_link: "lectures"
 
 summary: |
   Hello, World. Welcome to UBNetDef 2016.
+
+has_page: true
 ---
 
 # Syllabus

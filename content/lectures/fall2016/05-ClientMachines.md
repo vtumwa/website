@@ -13,6 +13,6 @@ summary: |
   computers - Client Machines.
 
 slides: "#"
----
 
-# Coming soon!
+has_page: false
+---

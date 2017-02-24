@@ -13,6 +13,6 @@ summary: |
   line master? We got you covered!
 
 slides: "/slides/spring2017/linux_kung_fu.pdf"
----
 
-# Coming soon!
+has_page: false
+---
