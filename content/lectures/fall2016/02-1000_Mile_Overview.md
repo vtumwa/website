@@ -11,7 +11,7 @@ navbar_active_link: "lectures"
 summary: |
   Take a high-level view into the basics of security.
 
-slides: "https://docs.google.com/presentation/d/10swMeeUIXrMP37ADofemmwRh84b1pBNtWVMYuIld7mw"
+slides: "/slides/fall2016/1k_overview.pdf"
 
 has_page: true
 ---
