@@ -1,4 +1,4 @@
-﻿---
+---
 date: "2017-01-30"
 title: "Systems Security"
 navbar_active_link: "courses"
@@ -10,7 +10,7 @@ subtext: "Spring 2017 / Jacobs B30 / Thursdays 6:30PM - 9:30PM"
 </div>
 
 ## Overview
-During this introductory course, geared for students new to cyber security, students will be introduced to fundamental security topics.  Students will critically examine concepts such as basic networking, system administration, and system security as well as identifying and applying basic security hardening techniques.  Students will gain practical experience through a virtualized lab environment where they will be building a small corporate network.
+During this introductory course, geared for students new to cyber security, students will be introduced to fundamental security topics.  Students will critically examine concepts such as basic networking, system administration, team dynamics and system security as well as identifying and applying basic security hardening techniques.  Students will gain practical experience through a virtualized lab environment where they will be building a small corporate network. Students will also work as a team towards the completion of a semester long research project of their choosing. 
 
 ## Faculty Instructors
 Faculty Instructors are responsible for administering the course in accordance with the University at Buffalo policies and this syllabus.  Faculty Instructors also determine final course grades consistent with the grading policy in this syllabus.
@@ -119,223 +119,107 @@ Student Instructors are responsible for running the class.  Most questions, unle
 	<tbody>
 		<tr>
 			<td>Learn Basic Security Concepts and Topics</td>
-			<td>Lesson 2, 12, 14 Deliverables</td>
-		</tr>
-		<tr>
-			<td>Setup a Virtual Router and Firewall</td>
-			<td>Build-A-Network &amp; Lesson 4, 10 Deliverables</td>
-		</tr>
-		<tr>
-			<td>Create and Deploy VMs running services</td>
-			<td>Build-A-Network &amp; Lesson 6, 7 Deliverables</td>
+			<td>Course</td>
 		</tr>
 		<tr>
 			<td>Defend a Machine from Real-time Attackers</td>
-			<td>Lesson 8 &amp; 9 Deliverables</td>
+			<td>Course</td>
+		</tr>
+		<tr>
+			<td>Work effectively in a team</td>
+			<td>Project &amp; Competitionss</td>
+		</tr>
+		<tr>
+			<td>Identify threats and vulnerabilities of systems</td>
+			<td>Course</td>
+		</tr>
+        <tr>
+			<td>Effectively communicate via written reports and presentation skills</td>
+			<td>Project and Final Presentation</td>
 		</tr>
 	</tbody>
 </table>
 
 ## Course Materials
 - National Cyber League (http://www.nationalcyberleague.org) registration.
+- Overthewire
+- Metasploitable
+- http://overthewire.org/wargames/
+- https://www.nice-challenge.com/
+- http://www.cyberaces.org/
+- https://www.hackthissite.org/
+- https://pentesterlab.com/
+- https://introsec.backdrifting.net/
+- https://picoctf.com/ 
 
 ## Course Requirements
 ### Lectures
-Attendance for all lectures is **mandatory** and each absence will result in a **full letter grade penalty**.  One absence or late arrival is permitted without penalty.  Students arriving late or unprepared may also receive a penalty at the discretion of the instructor.  Absences due to illness may be excused if the instructor is notified in advance, and the illness is documented by a physician or healthcare professional.
+Attendance for all lectures is required. One absence or late arrival is permitted without penalty. Students arriving late or unprepared may also receive a penalty at the discretion of the instructor. Absences due to illness may be excused if the instructor is notified in advance, and the illness is documented by a physician or healthcare professional.
+
+### Competition Participation
+All students are required to participate fully in a Cyber Security competition, as well as the UB Lockdown competition. Various competitions will be announced throughout the academic semester.
+
 
 ### Homework Assignments
 <div class="alert alert-info">
-	<p><i class="glyphicon glyphicon-info-sign"></i> This list of homework assignments is subject to change. For an up-to-date list, please check <a href="/homeworks">here</a>.</p>
+	<p><i class="glyphicon glyphicon-info-sign"></i> This list of homework assignments is subject to change.</p>
 </div>
 
 <table class="table table-bordered">
 	<thead>
 		<tr>
-			<td style="width: 60%">Homework</td>
-			<td style="width: 25%">Due Date</td>
-			<td style="width: 5%">Report</td>
-			<td style="width: 5%">vCenter</td>
-			<td style="width: 5%">Wiki</td>
+			<td style="width: 75%"><strong>Homework</strong></td>
+			<td style="width: 25%"><strong>Due Date</strong></td>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
-			<td>CyberSecurity Job Postings</td>
-			<td>September 15, 2016 @ 6:00PM</td>
-			<td><i class="glyphicon glyphicon-ok"></i></td>
-			<td><i class="glyphicon glyphicon-remove"></i></td>
-			<td><i class="glyphicon glyphicon-remove"></i></td>
-		</tr>
-		<tr>
-			<td>Topology of the LAN to their WAN</td>
-			<td>September 22, 2016 @ 6:00PM</td>
-			<td><i class="glyphicon glyphicon-ok"></i></td>
-			<td><i class="glyphicon glyphicon-remove"></i></td>
-			<td><i class="glyphicon glyphicon-remove"></i></td>
-		</tr>
-		<tr>
-			<td>pfSense VM Setup</td>
-			<td>September 29, 2016 @ 6:00PM</td>
-			<td><i class="glyphicon glyphicon-remove"></i></td>
-			<td><i class="glyphicon glyphicon-ok"></i></td>
-			<td><i class="glyphicon glyphicon-ok"></i></td>
-		</tr>
-		<tr>
-			<td>{Windows, Linux} Client Setup</td>
-			<td>October 6, 2016 @ 6:00PM</td>
-			<td><i class="glyphicon glyphicon-remove"></i></td>
-			<td><i class="glyphicon glyphicon-ok"></i></td>
-			<td><i class="glyphicon glyphicon-ok"></i></td>
-		</tr>
-		<tr>
-			<td>{Web, Database} Server VM Setup</td>
-			<td>October 13, 2016 @ 6:00PM</td>
-			<td><i class="glyphicon glyphicon-remove"></i></td>
-			<td><i class="glyphicon glyphicon-ok"></i></td>
-			<td><i class="glyphicon glyphicon-ok"></i></td>
-		</tr>
-		<tr>
-			<td>Windows Server VM Setup</td>
-			<td>October 20, 2016 @ 6:00PM</td>
-			<td><i class="glyphicon glyphicon-remove"></i></td>
-			<td><i class="glyphicon glyphicon-ok"></i></td>
-			<td><i class="glyphicon glyphicon-ok"></i></td>
-		</tr>
-		<tr>
-			<td>Implementing a Password Policy Report</td>
-			<td>October 27, 2016 @ 6:00PM</td>
-			<td><i class="glyphicon glyphicon-ok"></i></td>
-			<td><i class="glyphicon glyphicon-remove"></i></td>
-			<td><i class="glyphicon glyphicon-remove"></i></td>
-		</tr>
-		<tr>
-			<td>Post-Mortem Incident Report</td>
-			<td>October 27, 2016 @ 6:00PM</td>
-			<td><i class="glyphicon glyphicon-ok"></i></td>
-			<td><i class="glyphicon glyphicon-remove"></i></td>
-			<td><i class="glyphicon glyphicon-remove"></i></td>
-		</tr>
-		<tr>
-			<td>Firewall Rules Implementation</td>
-			<td>November 3, 2016 @ 6:00PM</td>
-			<td><i class="glyphicon glyphicon-remove"></i></td>
-			<td><i class="glyphicon glyphicon-ok"></i></td>
-			<td><i class="glyphicon glyphicon-ok"></i></td>
-		</tr>
-		<tr>
-			<td>TBD</td>
-			<td>November 10, 2016 @ 6:00PM</td>
-			<td><i class="glyphicon glyphicon-remove"></i></td>
-			<td><i class="glyphicon glyphicon-remove"></i></td>
-			<td><i class="glyphicon glyphicon-remove"></i></td>
-		</tr>
-		<tr>
-			<td>TBD</td>
-			<td>November 10, 2016 @ 6:00PM</td>
-			<td><i class="glyphicon glyphicon-remove"></i></td>
-			<td><i class="glyphicon glyphicon-remove"></i></td>
-			<td><i class="glyphicon glyphicon-remove"></i></td>
-		</tr>
-		<tr>
-			<td>TBD</td>
-			<td>November 16, 2016 @ 6:00PM</td>
-			<td><i class="glyphicon glyphicon-remove"></i></td>
-			<td><i class="glyphicon glyphicon-remove"></i></td>
-			<td><i class="glyphicon glyphicon-remove"></i></td>
-		</tr>
-		<tr>
-			<td colspan="2">Thanksgiving</td>
-			<td><i class="glyphicon glyphicon-remove"></i></td>
-			<td><i class="glyphicon glyphicon-remove"></i></td>
-			<td><i class="glyphicon glyphicon-remove"></i></td>
-		</tr>
-		<tr>
-			<td>TBD</td>
-			<td>December 1, 2016 @ 6:00PM</td>
-			<td><i class="glyphicon glyphicon-remove"></i></td>
-			<td><i class="glyphicon glyphicon-remove"></i></td>
-			<td><i class="glyphicon glyphicon-remove"></i></td>
-		</tr>
-		<tr>
-			<td>TBD</td>
-			<td>December 8, 2016 @ 6:00PM</td>
-			<td><i class="glyphicon glyphicon-remove"></i></td>
-			<td><i class="glyphicon glyphicon-remove"></i></td>
-			<td><i class="glyphicon glyphicon-remove"></i></td>
+			<td>Setup your teams webserver &amp; Complete <a href="http://overthewire.org/wargames/bandit/">Over the Wire Bandit</a></td>
+			<td>March 2, 2016 @ 6:00PM</td>
 		</tr>
 	</tbody>
 </table>
 
-#### Extra Mile Deliverables
-As a note, the “Extra Mile” deliverables were created for advanced students who already know the material.  Completion of Extra Mile deliverables is for “bragging rights” only.  No additional or bonus points will be awarded if a group completes them.  We will, however, stress that groups should do them, and possibly create a leaderboard for them as well.
-
-#### Report Policies
-TBA.
-
-### Competition Participation
-<div class="alert alert-info">
-	The Crucible, a competition that happens during the semester in Systems Security, <strong>does not count</strong> for this requirement.
-</div>
-
-All students are required to participate fully in a Cyber Security competition, as well as the UB Lockdown competition.  Various competitions will be announced throughout the academic semester.
-
-## Getting Assistance
-The best way to request assistance is to ask on the `#syssec` channel on UBNetDef’s slack.  The instructors and mentors are constantly on the slack, so it’s likely you will get a response within 24-hours, if not less.  If you do not have access to the UBNetDef slack, please contact an instructor.
+### Getting Assistance
+The best way to request assistance is to ask on the `#syssec` channel on UBNetDef’s slack. The instructors and mentors are constantly on the slack, so it’s likely you will get a response within 24-hours, if not less.  If you do not have access to the UBNetDef slack, please contact an instructor.
 
 ## Grading Policy
 <div class="row">
-	<div class="col-md-8">
-		<p>Grading is done on a point scale, with a max available points of 2600.  Late submissions are accepted, however, there will be a deduction of 50 points per week the deliverable due is late.</p>
-
-		<p>Points are accumulated by the following ways:</p>
-
-		<ol>
-			<li>Assignments - 1800 Points
-				<ol>
-					<li>Build-A-Network: 600 Points</li>
-					<li>Wiki Guides: 600 Points</li>
-					<li>Reports: 600 Points</li>
-				</ol>
-			</li>
-			<li>Competition Participation - 800 Points
-				<ol>
-					<li>Competitions will be announced during the semester.  Examples include: National Cyber League, UB Lockdown, RIT ISTS, Alfred State ASIST.</li>
-					<li>Each competition attended is worth 400 points.</li>
-				</ol>
-			</li>
-		</ol>
-	</div>
-	<div class="col-md-4">
-		<table class="table table-bordered" style="max-width: 300px;">
+    <div class="col-md-12">
+		<table class="table table-bordered" style="max-width: 600px;">
 			<thead>
 				<tr>
-					<td colspan="2">Systems Security Grading Scale</td>
+					<td colspan="6"><strong>Systems Security Grading Scale</strong></td>
 				</tr>
 			</thead>
 			<tbody>
 				<tr>
-					<td>A</td>
-					<td>2000-2600 Points</td>
+					<td>Active Class Participation &amp; Attendance</td>
+					<td>25%</td>
 				</tr>
 
 				<tr>
-					<td>B</td>
-					<td>1400-1900 Points</td>
+					<td>Competition Participation</td>
+					<td>25%</td>
 				</tr>
 
 				<tr>
-					<td>C</td>
-					<td>800-1300 Points</td>
+					<td>Class Project</td>
+					<td>25%</td>
 				</tr>
 
 				<tr>
-					<td>D</td>
-					<td>400-700 Points</td>
+					<td>Final Presentation</td>
+					<td>15%</td>
 				</tr>
 
 				<tr>
-					<td>F</td>
-					<td>0-300 Points</td>
+					<td>Peer Evaluations</td>
+					<td>10%</td>
+				</tr>
+                <tr>
+					<td><strong>Total</strong></td>
+					<td><strong>100%</strong></td>
 				</tr>
 			</tbody>
 		</table>
@@ -353,4 +237,4 @@ As a student in cyber security, you are learning tools and given resources that 
 As a part of Systems Security, you are granted permissions to create Virtual Machines on the vCenter environment, for educational purposes.  Any misuse of the environment will result in the **immediate failure of the student.**
 
 ### Network Logging Disclaimer
-All traffic that occurs within the vCenter environment is being **logged** for analysis purposes.  Traffic captures (pcaps) may be shared with other individuals within UBNetDef for educational purposes only. **We highly discourage logging into any personal or social networking websites on a Virtual Machine hosted in the vCenter environment.**
+All traffic that occurs within the vCenter environment is being **logged** for analysis purposes. Traffic captures (pcaps) may be shared with other individuals within UBNetDef for educational purposes only. **We highly discourage logging into any personal or social networking websites on a Virtual Machine hosted in the vCenter environment.**
