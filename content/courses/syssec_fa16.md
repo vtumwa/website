@@ -1,12 +1,12 @@
 ---
-date: "2017-01-30"
+date: "2016-09-01"
 title: "Systems Security"
 navbar_active_link: "courses"
 
-subtext: "Spring 2017 / Jacobs B30 / Thursdays 6:30PM - 9:30PM"
+subtext: "Fall 2016 / Jacobs B30 / Thursdays 6:30PM - 9:30PM"
 ---
 <div class="alert alert-warning">
-	<p><strong>Heads Up!</strong> - This page is considered a living document. There will be some slight changes as we finalize certain aspects.</p>
+	<p><strong>Heads Up!</strong> - This is the syllabus for a non-current course.</p>
 </div>
 
 ## Overview
@@ -50,9 +50,19 @@ Student Instructors are responsible for running the class.  Most questions, unle
 	</thead>
 	<tbody>
 		<tr>
-			<td>Cameron Levine</td>
-			<td>crlevine@buffalo.edu</td>
-			<td>cameron</td>
+			<td>Aaron Fiebelkorn</td>
+			<td>amf42@buffalo.edu</td>
+			<td>a-a-ron</td>
+		</tr>
+		<tr>
+			<td>Alexandra Mazzei</td>
+			<td>ammazzei@buffalo.edu</td>
+			<td>becausealex</td>
+		</tr>
+		<tr>
+			<td>James Droste</td>
+			<td>jamesdro@buffalo.edu</td>
+			<td>james</td>
 		</tr>
 		<tr>
 			<td>Jered Geist</td>
@@ -60,21 +70,15 @@ Student Instructors are responsible for running the class.  Most questions, unle
 			<td>jered</td>
 		</tr>
 		<tr>
-			<td>Nick Brase</td>
-			<td>nrbrase@buffalo.edu</td>
-			<td>nickbrase</td>
-		</tr>
-		<tr>
 			<td>Stefan Jagroop</td>
 			<td>stefanja@buffalo.edu</td>
 			<td>stefanja</td>
 		</tr>
 		<tr>
-			<td>Jean-Baptiste Turroc</td>
-			<td>jturroc@buffalo.edu</td>
-			<td>jb</td>
+			<td>Tanmay Bhagwat</td>
+			<td>tanmaybh@buffalo.edu</td>
+			<td>usmarine</td>
 		</tr>
-
 	</tbody>
 </table>
 
@@ -142,7 +146,6 @@ Student Instructors are responsible for running the class.  Most questions, unle
 ## Course Requirements
 ### Lectures
 Attendance for all lectures is **mandatory** and each absence will result in a **full letter grade penalty**.  One absence or late arrival is permitted without penalty.  Students arriving late or unprepared may also receive a penalty at the discretion of the instructor.  Absences due to illness may be excused if the instructor is notified in advance, and the illness is documented by a physician or healthcare professional.
-
 
 ### Homework Assignments
 <div class="alert alert-info">

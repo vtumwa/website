@@ -24,6 +24,13 @@ menu:
       Weight: 30
       URL: "/courses/secdev"
       Parent: "courses"
+    - Name: "---"
+      Weight: 40
+      Parent: "courses"
+    - Name: "Systems Security (Fall 2016)"
+      Weight: 100
+      URL: "/courses/syssec_fa16"
+      Parent: "courses"
 
     - Name: "lectures"
       Weight: -80
