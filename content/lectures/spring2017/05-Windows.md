@@ -8,8 +8,6 @@ author: "Jered Geist"
 slug: "windows"
 navbar_active_link: "lectures"
 
-
-
 summary: |
   Control ALL the computers! (except the non-windows ones)
 
