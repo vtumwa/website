@@ -7,49 +7,49 @@ disableHugoGeneratorInject: true
 menu:
   main:
     - Name: "about"
-      Weight: -100
+      Weight: 100
       URL: "/about"
 
     - Name: "courses"
-      Weight: -90
+      Weight: 200
     - Name: "Systems Security"
-      Weight: 10
+      Weight: 201
       URL: "/courses/syssec"
       Parent: "courses"
     - Name: "Network Security"
-      Weight: 20
+      Weight: 202
       URL: "/courses/netsec"
       Parent: "courses"
     - Name: "Security Development Program"
-      Weight: 30
+      Weight: 203
       URL: "/courses/secdev"
       Parent: "courses"
     - Name: "---"
-      Weight: 40
+      Weight: 250
       Parent: "courses"
     - Name: "Systems Security (Fall 2016)"
-      Weight: 100
+      Weight: 251
       URL: "/courses/syssec_fa16"
       Parent: "courses"
 
     - Name: "lectures"
-      Weight: -80
+      Weight: 300
       URL: "/lectures"
 
     - Name: "competitions"
-      Weight: -70
+      Weight: 400
     - Name: "Lockdown v1"
-      Weight: -100
+      Weight: 401
       URL: "https://lockdown.ubnetdef.org"
       Parent: "competitions"
-    - Name: "---"
-      Weight: 0
+    - Name: "----"
+      Weight: 450
       Parent: "competitions"
     - Name: "Lockdown v0"
-      Weight: 100
+      Weight: 451
       URL: "/competitions/lockdown_v0"
       Parent: "competitions"
 
     - Name: "wiki"
-      Weight: -50
+      Weight: 500
       URL: "https://wiki.ubnetdef.org"

@@ -39,7 +39,7 @@
 
 						<ul class="dropdown-menu">
 							{{ range .Children }}
-							{{ if eq .Name "---" }}
+							{{ if in .Name "---" }}
 							<li role="separator" class="divider"></li>
 							{{ else }}
 							<li>
