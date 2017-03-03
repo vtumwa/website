@@ -3,10 +3,12 @@ date: "2017-01-30"
 title: "Network Security"
 navbar_active_link: "courses"
 
+active: true
+
 subtext: "Spring 2017 / Online / Daily"
 ---
 
-## Overview
+# Overview
 This course exposes students to the tools and techniques used by information security professionals to analyze computer network traffic and identify suspicious and/or malicious activity within that traffic.
 
 **Upon successful completion of the course, students will have gained real-world experience that will make them highly desirable to employers with open entry-level Security Operations positions.**
@@ -15,7 +17,7 @@ This course also exposes students to professional skills, to include: public spe
 
 The course is built on the premise that students learn best by actively doing, and through hands-on experience.
 
-## Instructor
+# Instructor
 <table class="table">
 	<thead>
 		<tr>
@@ -33,7 +35,7 @@ The course is built on the premise that students learn best by actively doing, a
 	</tbody>
 </table>
 
-## Course Objectives
+# Course Objectives
 At a high level, each student has five objectives to meet:
 
 1. Build a 5-node network.  (See the network diagram attached on the last page.)
@@ -42,14 +44,14 @@ At a high level, each student has five objectives to meet:
 4. Write effectively about the steps they took to meet objectives 1 - 3.
 5. Present the status of their work in front of a large audience at least twice.
 
-## Course Calendar
+# Course Calendar
 The instructor will share the official course calendar with students as a Google Calendar during the first week of class.  Students are expected to have their own Google Calendar for this class, and will be asked to block out times that they are unavailable to meet.
 
 Although it is subject to change, a tentative course calendar is provided in the table below:
 
 TBD
 
-## Grading Policies
+# Grading Policies
 <div class="row">
 	<div class="col-md-8">
 		<table class="table table-bordered">
@@ -113,7 +115,7 @@ TBD
 	</div>
 </div>
 
-### Daily Sync Meeting (45%)
+## Daily Sync Meeting (45%)
 This class is designed to be extremely hands-on and borrows some of its structure from [scrum](https://www.atlassian.com/agile/scrum).
 
 Class meets five days a week on Google Hangouts for no more than 10 minutes, at the same time every day.  During the meeting, the instructor asks each student the following three questions:
@@ -129,7 +131,7 @@ The instructor will maintain Daily Sync Meeting minutes, which will be shared wi
 Students receive two PASS/FAIL grades for each meeting: one for attendance and one for participation.  Students earn 1 point when they PASS and 0 points when they FAIL.  Final grade for both attendance and participation is determined by the sum of all passing grades, divided by the total number of meetings.
 
 
-#### Daily Sync Meeting Attendance (10%)
+### Daily Sync Meeting Attendance (10%)
 <table class="table table-bordered">
 	<thead>
 		<tr>
@@ -149,7 +151,7 @@ Students receive two PASS/FAIL grades for each meeting: one for attendance and o
 	</tbody>
 </table>
 
-#### Daily Sync Meeting Participation (35%)
+### Daily Sync Meeting Participation (35%)
 <table class="table table-bordered">
 	<thead>
 		<tr>
@@ -169,12 +171,12 @@ Students receive two PASS/FAIL grades for each meeting: one for attendance and o
 	</tbody>
 </table>
 
-### Daily Sync Meeting Vacation Days
+## Daily Sync Meeting Vacation Days
 Students get **5** vacation days, where they may skip the daily sync meeting, with no questions asked.  To use a vacation day, the student must state that they plan to use a vacation day for the following Daily Sync Meeting.
 
 Students that do not attend the daily meeting, and have not previously stated that they had planned on taking a vacation day, will fail both participation and attendance for the day.
 
-### Written Reports (45%)
+## Written Reports (45%)
 Students are expected to develop a professional written report every week.  The report will illustrate the student’s work, in detail, and in such a way that a UBNETDEF SYSSEC student can easily understand and achieve the same results without any intervention from the author.
 
 The report will also include an executive summary, which will professionally convey high level points about their work to a non-technical audience.
@@ -190,7 +192,7 @@ Of note, the following infractions will automatically result in a grade of 0% fo
 * The executive summary is longer than one page.
 * The report is submitted after the official due date.
 
-### Presentations (10%)
+## Presentations (10%)
 Each student will deliver a 10 minute presentation to the Thursday night UBNETDEF SYSSEC class twice during the semester.
 
 The presentation will cover, at a high level, the progress that they have made in the class to date.
@@ -210,18 +212,18 @@ Each point is decided by a majority vote.  So a student earns 1 point when 51% o
 
 The total score for the presentation is computed by the number of earned points divided by the number of possible points.
 
-## Office Hours
+# Office Hours
 Office hours are dynamic, flexible, and provided on an as-needed basis.  Students state a need to meet with the instructor during the daily sync meeting, and the instructor and student schedule a mutually agreeable time to meet on Google Hangouts.
 
-## Course Conduct
-### Academic Integrity
+# Course Conduct
+## Academic Integrity
 Students must conduct their coursework in a manner that does not violate the University at Buffalo’s Academic Integrity Policy.  Students found in violation of the [Academic Integrity Policy](http://undergrad-catalog.buffalo.edu/policies/course/integrity.html) will receive an F for the course.
 
-### Ethics Policy
+## Ethics Policy
 As a student in cyber security, you are learning tools and given resources that are meant to help protect yourself and others. However, these tools and resources can also be used in malicious or illegal ways. It is imperative that while you are a representative of this class, and even well after, you perform any security education or training strictly inside our internal environment or a controlled and contained environment that you have prepared for yourself. Any activity outside of our internal environment is outside of our control and protection. If you are not sure what you’re doing, it is very easy to do something illegal without even knowing you are (even something as simple as port scanning outside our internal network). If you are unsure if something is allowed or not, contact one of the instructors or mentors. **All network traffic inside our infrastructure will be monitored for malicious or suspicious activity and acted upon with severe consequences if such privileges are abused.** You are being given an opportunity to learn, please do not waste it.
 
-### vCenter Usage
+## vCenter Usage
 As a part of the Network Security course, you are granted elevated permissions permissions inside the vCenter environment.  Any misuse of the environment will result in the **immediate failure of the student, as well as academic dishonesty charges being filed.**
 
-### Network Logging Disclaimer
+## Network Logging Disclaimer
 All traffic that occurs within the vCenter environment is being **logged** for analysis purposes.  Traffic captures (pcaps) may be shared with other individuals within UBNetDef for educational purposes only. **We highly discourage logging into any personal or social networking websites on a Virtual Machine hosted in the vCenter environment.**

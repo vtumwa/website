@@ -3,13 +3,15 @@ date: "2017-01-30"
 title: "Security Development Program"
 navbar_active_link: "courses"
 
+active: true
+
 subtext: "Spring 2017 / Jacobs B30 / Thursdays 6:30PM - 9:30PM"
 ---
 
-## Overview
+# Overview
 During this advanced course, geared for students experienced in cyber security, students will be responsible for the management of a course (Systems Security), as well as the creation of a competition (UB Lockdown).
 
-## Instructors
+# Instructors
 <table class="table">
 	<thead>
 		<tr>
@@ -32,7 +34,7 @@ During this advanced course, geared for students experienced in cyber security, 
 	</tbody>
 </table>
 
-## Course Recommendations
+# Course Recommendations
 Due to the nature and complexity of the Security Development Program, prospective students interested in taking the Security Development Program should evaluate his/her own skills using the table below.  Each student should have at least 6 points before attempting SecDev as the individuals are role models and will be taking on a self motivated education. If an individual does not meet the recommended points, he/she can still join but will be held to the same standards as a fellow SecDev student. Failure to meet responsibilities will be confronted in a meeting.  Continuation will result in asking the student to step down to another program.
 
 <table class="table">
@@ -106,7 +108,7 @@ Due to the nature and complexity of the Security Development Program, prospectiv
 	</tbody>
 </table>
 
-## Student Learning Outcomes
+# Student Learning Outcomes
 <table class="table">
 	<thead>
 		<tr>
@@ -130,16 +132,16 @@ Due to the nature and complexity of the Security Development Program, prospectiv
 	</tbody>
 </table>
 
-## Course Requirements
-### Mentoring
+# Course Requirements
+## Mentoring
 Students in the Security Development Program are responsible for the mentorship of students in the Systems Security course.
 
-### Competition Management
+## Competition Management
 Students in the Security Development Program are responsible for developing, organizing and managing all facets of the UB Lockdown competition.  The competition has three goals: Education, Competitive, and Fun.
 
 <p>&nbsp;</p>
 
-#### Education
+### Education
 The competition will be an educational tool to teach students (competitors and track 3) about building systems and services, hardening, using tools, team dynamics, etc by the end of the competition.
 
 **Leading Indicators**: Setting up a proper systems for educational; Red Team’s attack plan; technical difficulties
@@ -148,7 +150,7 @@ The competition will be an educational tool to teach students (competitors and t
 
 <p>&nbsp;</p>
 
-#### Competitive
+### Competitive
 No team or competitor has given up due to the lack of ability to continue caused by technical problems, red team, and/or lack of valiance for the duration of the competition.
 
 **Leading Indicators**: Technical difficulties; read team’s attack plan; why winning is important
@@ -157,7 +159,7 @@ No team or competitor has given up due to the lack of ability to continue caused
 
 <p>&nbsp;</p>
 
-#### Fun
+### Fun
 The majority of competitors are enjoying the competition even when things are getting stressful for the duration of the competition.
 
 **Leading Indicators**: Technical difficulties, read team’s attack plan, interesting injections and solutions.
@@ -166,18 +168,18 @@ The majority of competitors are enjoying the competition even when things are ge
 
 <p>&nbsp;</p>
 
-### Ensuring the Continuity of UBNetDef
+## Ensuring the Continuity of UBNetDef
 Students in the Security Development Program are expected to ensure UBNetDef will continue on after they graduate.  This includes recruitment, passing of knowledge to new SecDev members, and enhancing the curriculums.
 
-## Course Conduct
-### Academic Integrity
+# Course Conduct
+## Academic Integrity
 Students must conduct their coursework in a manner that does not violate the University at Buffalo’s Academic Integrity Policy.  Students found in violation of the [Academic Integrity Policy](http://undergrad-catalog.buffalo.edu/policies/course/integrity.html) will receive an F for the course.
 
-### Ethics Policy
+## Ethics Policy
 As a student in cyber security, you are learning tools and given resources that are meant to help protect yourself and others. However, these tools and resources can also be used in malicious or illegal ways. It is imperative that while you are a representative of this class, and even well after, you perform any security education or training strictly inside our internal environment or a controlled and contained environment that you have prepared for yourself. Any activity outside of our internal environment is outside of our control and protection. If you are not sure what you’re doing, it is very easy to do something illegal without even knowing you are (even something as simple as port scanning outside our internal network). If you are unsure if something is allowed or not, contact one of the instructors or mentors. **All network traffic inside our infrastructure will be monitored for malicious or suspicious activity and acted upon with severe consequences if such privileges are abused.** You are being given an opportunity to learn, please do not waste it.
 
-### vCenter Usage
+## vCenter Usage
 As a part of the Security Development Program, you are granted elevated permissions permissions inside the vCenter environment.  Any misuse of the environment will result in the **immediate failure of the student, as well as academic dishonesty charges being filed.**
 
-### Network Logging Disclaimer
+## Network Logging Disclaimer
 All traffic that occurs within the vCenter environment is being **logged** for analysis purposes.  Traffic captures (pcaps) may be shared with other individuals within UBNetDef for educational purposes only. **We highly discourage logging into any personal or social networking websites on a Virtual Machine hosted in the vCenter environment.**
