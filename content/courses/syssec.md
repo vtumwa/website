@@ -189,7 +189,7 @@ All students are required to participate fully in a Cyber Security competition, 
 		</tr>
 		<tr>
 			<td>1. Create a security group in Active Directory and add your User to it
- <br/>2. Create a group policy that sets the desktop backgroun(hint: google) <br/>3. Apply this setting to the security group you created </br>4. Send screenshots of applied background and set group policy to ubnetdef@buffalo.edu</a></td>
+ <br/>2. Create a group policy that sets the desktop background (hint: google) <br/>3. Apply this setting to the security group you created </br>4. Send screenshots of applied background and set group policy to ubnetdef@buffalo.edu</a></td>
 			<td>March 9, 2016 @ 6:00PM</td>
 		</tr>
 	</tbody>
