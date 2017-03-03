@@ -1,4 +1,4 @@
 <?php
-$url = 'https://docs.google.com/a/buffalo.edu/forms/d/1bAcsOj8JPEWUI4gM9wnp7KsZ6-4vRmAdC5_f9VIxJjY/edit';
+$url = 'https://docs.google.com/a/buffalo.edu/forms/d/e/1FAIpQLSdUeFQBYuSwSDa2KWj6Sp1ziZXo0t2eb5bw2ZLc1zkME34fjw/viewform';
 
 header('Location: '.$url);
