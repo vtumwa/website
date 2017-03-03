@@ -98,10 +98,6 @@ Student Instructors are responsible for running the class.  Most questions, unle
 			<td><a href="https://ubnetdef.slack.com">https://ubnetdef.slack.com</a></td>
 		</tr>
 		<tr>
-			<td>Assessment Engine</td>
-			<td><a href="https://assessment.ubnetdef.org">https://assessment.ubnetdef.org</a></td>
-		</tr>
-		<tr>
 			<td>Wiki</td>
 			<td><a href="https://wiki.ubnetdef.org">https://wiki.ubnetdef.org</a></td>
 		</tr>
