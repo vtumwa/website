@@ -8,8 +8,6 @@ author: "James Droste"
 slug: "linux_kungfu"
 navbar_active_link: "lectures"
 
-homework: "/homeworks/fall2016/hw5"
-
 summary: |
   So I heard you want to become a command
   line master? We got you covered!

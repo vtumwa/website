@@ -1,7 +1,7 @@
 <?php
 
-$open = false;
-$url = 'https://docs.google.com/a/buffalo.edu/forms/d/e/1FAIpQLSdUeFQBYuSwSDa2KWj6Sp1ziZXo0t2eb5bw2ZLc1zkME34fjw/viewform';
+$open = true;
+$url = 'https://docs.google.com/forms/d/e/1FAIpQLScoPP8r4G0Ycy_rA-qA1O9aTsGc2QTen-YQqi_8OXnhkwFX1Q/viewform?usp=sf_link';
 
 if ( !$open ) {
     $url = 'https://ubnetdef.org';

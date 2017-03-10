@@ -3,16 +3,14 @@ date: "2017-01-30"
 title: "Systems Security"
 navbar_active_link: "courses"
 
+active: true
+
 subtext: "Spring 2017 / Jacobs B30 / Thursdays 6:30PM - 9:30PM"
 ---
-<div class="alert alert-warning">
-	<p><strong>Heads Up!</strong> - This page is considered a living document. There will be some slight changes as we finalize certain aspects.</p>
-</div>
-
-## Overview
+# Overview
 During this introductory course, geared for students new to cyber security, students will be introduced to fundamental security topics.  Students will critically examine concepts such as basic networking, system administration, team dynamics and system security as well as identifying and applying basic security hardening techniques.  Students will gain practical experience through a virtualized lab environment where they will be building a small corporate network. Students will also work as a team towards the completion of a semester long research project of their choosing. 
 
-## Faculty Instructors
+# Faculty Instructors
 Faculty Instructors are responsible for administering the course in accordance with the University at Buffalo policies and this syllabus.  Faculty Instructors also determine final course grades consistent with the grading policy in this syllabus.
 
 <table class="table">
@@ -37,7 +35,7 @@ Faculty Instructors are responsible for administering the course in accordance w
 	</tbody>
 </table>
 
-## Student Instructors
+# Student Instructors
 Student Instructors are responsible for running the class.  Most questions, unless believed to be sensitive, should go to someone from this list.
 
 <table class="table">
@@ -88,7 +86,7 @@ Student Instructors are responsible for running the class.  Most questions, unle
 	</tbody>
 </table>
 
-## Course Resources
+# Course Resources
 <table class="table">
 	<tbody>
 		<tr>
@@ -98,10 +96,6 @@ Student Instructors are responsible for running the class.  Most questions, unle
 		<tr>
 			<td>Slack Channel</td>
 			<td><a href="https://ubnetdef.slack.com">https://ubnetdef.slack.com</a></td>
-		</tr>
-		<tr>
-			<td>Assessment Engine</td>
-			<td><a href="https://assessment.ubnetdef.org">https://assessment.ubnetdef.org</a></td>
 		</tr>
 		<tr>
 			<td>Wiki</td>
@@ -118,7 +112,7 @@ Student Instructors are responsible for running the class.  Most questions, unle
 	</tbody>
 </table>
 
-## Student Learning Outcomes
+# Student Learning Outcomes
 <table class="table">
 	<thead>
 		<tr>
@@ -150,7 +144,7 @@ Student Instructors are responsible for running the class.  Most questions, unle
 	</tbody>
 </table>
 
-## Course Materials
+# Course Materials
 - National Cyber League (http://www.nationalcyberleague.org) registration.
 - Overthewire
 - Metasploitable
@@ -162,15 +156,15 @@ Student Instructors are responsible for running the class.  Most questions, unle
 - https://introsec.backdrifting.net/
 - https://picoctf.com/ 
 
-## Course Requirements
-### Lectures
+# Course Requirements
+## Lectures
 Attendance for all lectures is required. One absence or late arrival is permitted without penalty. Students arriving late or unprepared may also receive a penalty at the discretion of the instructor. Absences due to illness may be excused if the instructor is notified in advance, and the illness is documented by a physician or healthcare professional.
 
-### Competition Participation
+## Competition Participation
 All students are required to participate fully in a Cyber Security competition, as well as the UB Lockdown competition. Various competitions will be announced throughout the academic semester.
 
 
-### Homework Assignments
+## Homework Assignments
 <div class="alert alert-info">
 	<p><i class="glyphicon glyphicon-info-sign"></i> This list of homework assignments is subject to change.</p>
 </div>
@@ -187,13 +181,18 @@ All students are required to participate fully in a Cyber Security competition, 
 			<td>Setup your teams webserver &amp; Complete <a href="http://overthewire.org/wargames/bandit/">Over the Wire Bandit</a></td>
 			<td>March 2, 2016 @ 6:00PM</td>
 		</tr>
+		<tr>
+			<td>1. Create a security group in Active Directory and add your User to it
+ <br/>2. Create a group policy that sets the desktop background (hint: google) <br/>3. Apply this setting to the security group you created </br>4. Send screenshots of applied background and set group policy to ubnetdef@buffalo.edu</a></td>
+			<td>March 9, 2016 @ 6:00PM</td>
+		</tr>
 	</tbody>
 </table>
 
-### Getting Assistance
+## Getting Assistance
 The best way to request assistance is to ask on the `#syssec` channel on UBNetDef’s slack. The instructors and mentors are constantly on the slack, so it’s likely you will get a response within 24-hours, if not less.  If you do not have access to the UBNetDef slack, please contact an instructor.
 
-## Grading Policy
+# Grading Policy
 <div class="row">
     <div class="col-md-12">
 		<table class="table table-bordered" style="max-width: 600px;">
@@ -236,15 +235,15 @@ The best way to request assistance is to ask on the `#syssec` channel on UBNetDe
 	</div>
 </div>
 
-## Course Conduct
-### Academic Integrity
+# Course Conduct
+## Academic Integrity
 Students must conduct their coursework in a manner that does not violate the University at Buffalo’s Academic Integrity Policy.  Students found in violation of the [Academic Integrity Policy](http://undergrad-catalog.buffalo.edu/policies/course/integrity.html) will receive an F for the course.
 
-### Ethics Policy
+## Ethics Policy
 As a student in cyber security, you are learning tools and given resources that are meant to help protect yourself and others. However, these tools and resources can also be used in malicious or illegal ways. It is imperative that while you are a representative of this class, and even well after, you perform any security education or training strictly inside our internal environment or a controlled and contained environment that you have prepared for yourself. Any activity outside of our internal environment is outside of our control and protection. If you are not sure what you’re doing, it is very easy to do something illegal without even knowing you are (even something as simple as port scanning outside our internal network). If you are unsure if something is allowed or not, contact one of the instructors or mentors. **All network traffic inside our infrastructure will be monitored for malicious or suspicious activity and acted upon with severe consequences if such privileges are abused.** You are being given an opportunity to learn, please do not waste it.
 
-### vCenter Usage
+## vCenter Usage
 As a part of Systems Security, you are granted permissions to create Virtual Machines on the vCenter environment, for educational purposes.  Any misuse of the environment will result in the **immediate failure of the student.**
 
-### Network Logging Disclaimer
+## Network Logging Disclaimer
 All traffic that occurs within the vCenter environment is being **logged** for analysis purposes. Traffic captures (pcaps) may be shared with other individuals within UBNetDef for educational purposes only. **We highly discourage logging into any personal or social networking websites on a Virtual Machine hosted in the vCenter environment.**
