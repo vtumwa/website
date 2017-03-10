@@ -38,16 +38,9 @@ menu:
 
     - Name: "competitions"
       Weight: 400
-    - Name: "Lockdown v1"
+    - Name: "Lockdown"
       Weight: 401
       URL: "https://lockdown.ubnetdef.org"
-      Parent: "competitions"
-    - Name: "----"
-      Weight: 450
-      Parent: "competitions"
-    - Name: "Lockdown v0"
-      Weight: 451
-      URL: "/competitions/lockdown_v0"
       Parent: "competitions"
 
     - Name: "wiki"
