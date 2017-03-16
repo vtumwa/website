@@ -1,7 +1,7 @@
 <?php
 
 $open = true;
-$url = 'https://docs.google.com/forms/d/e/1FAIpQLScoPP8r4G0Ycy_rA-qA1O9aTsGc2QTen-YQqi_8OXnhkwFX1Q/viewform?usp=sf_link';
+$url = 'https://goo.gl/forms/5uJKNjjuKQuffCr53';
 
 if ( !$open ) {
     $url = 'https://ubnetdef.org';
