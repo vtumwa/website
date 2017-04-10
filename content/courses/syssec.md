@@ -179,12 +179,20 @@ All students are required to participate fully in a Cyber Security competition, 
 	<tbody>
 		<tr>
 			<td>Setup your teams webserver &amp; Complete <a href="http://overthewire.org/wargames/bandit/">Over the Wire Bandit</a></td>
-			<td>March 2, 2016 @ 6:00PM</td>
+			<td>March 2, 2017 @ 6:00PM</td>
 		</tr>
 		<tr>
 			<td>1. Create a security group in Active Directory and add your User to it
  <br/>2. Create a group policy that sets the desktop background (hint: google) <br/>3. Apply this setting to the security group you created </br>4. Send screenshots of applied background and set group policy to ubnetdef@buffalo.edu</a></td>
-			<td>March 9, 2016 @ 6:00PM</td>
+			<td>March 9, 2017 @ 6:00PM</td>
+		</tr>
+		<tr>
+			<td>Setup the LAN portion of your network as described in the project network diagram found on slack.</td>
+			<td>April 6, 2017 @ 6:00PM</td>
+		</tr>
+		<tr>
+			<td>1. Setup the DMZ portion of your network as described in the project network diagram found on slack. <br/> 2. Document this process in the format discussed in class on April 7, and submit your report to Ubnetdef@buffalo.edu </td>
+			<td>April 13, 2017 @ 6:00PM</td>
 		</tr>
 	</tbody>
 </table>
