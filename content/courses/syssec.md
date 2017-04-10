@@ -77,11 +77,7 @@ Student Instructors are responsible for running the class.  Most questions, unle
 			<td>sjames5@buffalo.edu</td>
 			<td>stephenorjames</td>
 		</tr>
-		<tr>
-			<td>Jean-Baptiste Turroc</td>
-			<td>jturroc@buffalo.edu</td>
-			<td>jb</td>
-		</tr>
+
 
 	</tbody>
 </table>
