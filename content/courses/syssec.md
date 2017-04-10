@@ -187,6 +187,10 @@ All students are required to participate fully in a Cyber Security competition, 
 			<td>March 9, 2017 @ 6:00PM</td>
 		</tr>
 		<tr>
+			<td>Setup firewall rules as per Nicks lecture (see final slide of lecture for details)</a></td>
+			<td>March 16, 2017 @ 6:00PM</td>
+		</tr>
+		<tr>
 			<td>Setup the LAN portion of your network as described in the project network diagram found on slack.</td>
 			<td>April 6, 2017 @ 6:00PM</td>
 		</tr>
