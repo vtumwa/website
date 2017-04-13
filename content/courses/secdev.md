@@ -24,7 +24,7 @@ During this advanced course, geared for students experienced in cyber security, 
 		<tr>
 			<td>Dave Murray</td>
 			<td>djmurray@buffalo.edu</td>
-			<td>djmurrary</td>
+			<td>djmurray</td>
 		</tr>
 		<tr>
 			<td>Kevin Cleary</td>
