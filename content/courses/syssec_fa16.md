@@ -25,7 +25,7 @@ Faculty Instructors are responsible for administering the course in accordance w
 		<tr>
 			<td>Dave Murray</td>
 			<td>djmurray@buffalo.edu</td>
-			<td>djmurrary</td>
+			<td>djmurray</td>
 		</tr>
 		<tr>
 			<td>Kevin Cleary</td>
