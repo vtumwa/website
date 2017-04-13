@@ -192,7 +192,7 @@ All students are required to participate fully in a Cyber Security competition, 
 		</tr>
 		<tr>
 			<td>1. Setup the DMZ portion of your network as described in the project network diagram found on slack. <br/> 2. Document this process in the format discussed in class on April 7, and submit your report to Ubnetdef@buffalo.edu </td>
-			<td>April 13, 2017 @ 6:00PM</td>
+			<td>April 13, 2017 @ 11:59PM</td>
 		</tr>
 	</tbody>
 </table>
