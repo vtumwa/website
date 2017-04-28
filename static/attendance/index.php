@@ -1,7 +1,7 @@
 <?php
 
 $open = true;
-$url = 'https://goo.gl/forms/VZ3xv6qYfLLLoP9x2';
+$url = 'https://goo.gl/forms/YTdrKcd8cPRI6BIy1';
 
 if ( !$open ) {
     $url = 'https://ubnetdef.org';
