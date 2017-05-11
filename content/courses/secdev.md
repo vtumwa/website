@@ -91,7 +91,7 @@ Due to the nature and complexity of the Security Development Program, prospectiv
 		</tr>
 		<tr>
 			<td>Virtualization - Advanced</td>
-			<td>spt</td>
+			<td>2pts</td>
 		</tr>
 		<tr>
 			<td>IT Project Management Basic - Classes</td>
