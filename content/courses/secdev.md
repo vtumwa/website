@@ -5,7 +5,7 @@ navbar_active_link: "courses"
 
 active: true
 
-subtext: "Fall 2018 / Jacobs B30 / Thursdays 6:30PM - 9:30PM"
+subtext: "Fall 2017 / Jacobs B30 / Thursdays 6:30PM - 9:30PM"
 ---
 
 # Overview

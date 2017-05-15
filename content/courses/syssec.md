@@ -5,7 +5,7 @@ navbar_active_link: "courses"
 
 active: true
 
-subtext: "Fall 2018 / Jacobs B30 / Thursdays 6:30PM - 9:30PM"
+subtext: "Fall 2017 / Jacobs B30 / Thursdays 6:30PM - 9:30PM"
 ---
 # Overview
 During this introductory course, geared for students new to cyber security, students will be introduced to fundamental security topics.  Students will critically examine concepts such as basic networking, system administration, team dynamics and system security as well as identifying and applying basic security hardening techniques.  Students will gain practical experience through a virtualized lab environment where they will be building a small corporate network. Students will also work as a team towards the completion of a semester long research project of their choosing. 
