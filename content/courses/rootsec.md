@@ -1,5 +1,5 @@
 ---
-date: "2017-08-28"
+date: "2017-08-31"
 title: "Offensive Security"
 navbar_active_link: "courses"
 

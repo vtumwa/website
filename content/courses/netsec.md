@@ -1,5 +1,5 @@
 ---
-date: "2017-01-30"
+date: "2017-08-31"
 title: "Network Security"
 navbar_active_link: "courses"
 
