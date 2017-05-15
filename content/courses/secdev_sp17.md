@@ -1,15 +1,15 @@
 ---
-date: "2017-08-31"
+date: "2017-01-30"
 title: "Security Development Program"
 navbar_active_link: "courses"
 
 active: true
 
-subtext: "Fall 2018 / Jacobs B30 / Thursdays 6:30PM - 9:30PM"
+subtext: "Spring 2017 / Jacobs B30 / Thursdays 6:30PM - 9:30PM"
 ---
 
 # Overview
-This is an advanced course, geared for students experienced in cyber security.
+During this advanced course, geared for students experienced in cyber security, students will be responsible for the management of a course (Systems Security), as well as the creation of a competition (UB Lockdown).
 
 # Instructors
 <table class="table">
@@ -118,14 +118,58 @@ Due to the nature and complexity of the Security Development Program, prospectiv
 	</thead>
 	<tbody>
 		<tr>
-			<td>TODO</td>
-			<td>TBA</td>
+			<td>demonstrate their proficiency in an Operating System </td>
+			<td>Lecturing to Systems Security<br />UB Lockdown Competition</td>
+		</tr>
+		<tr>
+			<td>research topics they are not familiar with</td>
+			<td>TBD</td>
+		</tr>
+		<tr>
+			<td>apply concepts learned from this and previous semesters</td>
+			<td>Lecturing to Systems Security<br />UB Lockdown Competition</td>
 		</tr>
 	</tbody>
 </table>
 
 # Course Requirements
-Coming soon
+## Mentoring
+Students in the Security Development Program are responsible for the mentorship of students in the Systems Security course.
+
+## Competition Management
+Students in the Security Development Program are responsible for developing, organizing and managing all facets of the UB Lockdown competition.  The competition has three goals: Education, Competitive, and Fun.
+
+<p>&nbsp;</p>
+
+### Education
+The competition will be an educational tool to teach students (competitors and track 3) about building systems and services, hardening, using tools, team dynamics, etc by the end of the competition.
+
+**Leading Indicators**: Setting up a proper systems for educational; Red Team’s attack plan; technical difficulties
+
+**Lagging indicators**: Feedback given shows that one person did not learn anything
+
+<p>&nbsp;</p>
+
+### Competitive
+No team or competitor has given up due to the lack of ability to continue caused by technical problems, red team, and/or lack of valiance for the duration of the competition.
+
+**Leading Indicators**: Technical difficulties; read team’s attack plan; why winning is important
+
+**Lagging indicators**: One competitor gave up
+
+<p>&nbsp;</p>
+
+### Fun
+The majority of competitors are enjoying the competition even when things are getting stressful for the duration of the competition.
+
+**Leading Indicators**: Technical difficulties, read team’s attack plan, interesting injections and solutions.
+
+**Lagging indicators**: Feedback, bored/angry competitor
+
+<p>&nbsp;</p>
+
+## Ensuring the Continuity of UBNetDef
+Students in the Security Development Program are expected to ensure UBNetDef will continue on after they graduate.  This includes recruitment, passing of knowledge to new SecDev members, and enhancing the curriculums.
 
 # Course Conduct
 ## Academic Integrity

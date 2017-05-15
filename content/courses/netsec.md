@@ -5,7 +5,7 @@ navbar_active_link: "courses"
 
 active: true
 
-subtext: "Spring 2017 / Online / Daily"
+subtext: "Fall 2018 / Online / Daily"
 ---
 
 # Overview
