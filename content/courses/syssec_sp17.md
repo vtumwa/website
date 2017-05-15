@@ -1,11 +1,11 @@
 ﻿---
-date: "2017-08-31"
+date: "2017-01-30"
 title: "Systems Security"
 navbar_active_link: "courses"
 
-active: true
+active: false
 
-subtext: "Fall 2018 / Jacobs B30 / Thursdays 6:30PM - 9:30PM"
+subtext: "Spring 2017 / Jacobs B30 / Thursdays 6:30PM - 9:30PM"
 ---
 # Overview
 During this introductory course, geared for students new to cyber security, students will be introduced to fundamental security topics.  Students will critically examine concepts such as basic networking, system administration, team dynamics and system security as well as identifying and applying basic security hardening techniques.  Students will gain practical experience through a virtualized lab environment where they will be building a small corporate network. Students will also work as a team towards the completion of a semester long research project of their choosing. 
@@ -47,6 +47,16 @@ Student Instructors are responsible for running the class.  Most questions, unle
 		</tr>
 	</thead>
 	<tbody>
+        <tr>
+			<td>Benjamin Kasman</td>
+			<td>bjkasman@buffalo.edu</td>
+			<td>Bjkasman </td>
+		</tr>
+		<tr>
+			<td>Cameron Levine</td>
+			<td>crlevine@buffalo.edu</td>
+			<td>cameron</td>
+		</tr>
 		<tr>
 			<td>Jered Geist</td>
 			<td>jeredgei@buffalo.edu</td>
@@ -67,6 +77,8 @@ Student Instructors are responsible for running the class.  Most questions, unle
 			<td>sjames5@buffalo.edu</td>
 			<td>stephenorjames</td>
 		</tr>
+
+
 	</tbody>
 </table>
 
@@ -129,7 +141,16 @@ Student Instructors are responsible for running the class.  Most questions, unle
 </table>
 
 # Course Materials
-Coming soon
+- National Cyber League (http://www.nationalcyberleague.org) registration.
+- Overthewire
+- Metasploitable
+- http://overthewire.org/wargames/
+- https://www.nice-challenge.com/
+- http://www.cyberaces.org/
+- https://www.hackthissite.org/
+- https://pentesterlab.com/
+- https://introsec.backdrifting.net/
+- https://picoctf.com/ 
 
 # Course Requirements
 ## Lectures
@@ -153,8 +174,25 @@ All students are required to participate fully in a Cyber Security competition, 
 	</thead>
 	<tbody>
 		<tr>
-			<td>TBD</td>
-			<td>TBD</td>
+			<td>Setup your teams webserver &amp; Complete <a href="http://overthewire.org/wargames/bandit/">Over the Wire Bandit</a></td>
+			<td>March 2, 2017 @ 6:00PM</td>
+		</tr>
+		<tr>
+			<td>1. Create a security group in Active Directory and add your User to it
+ <br/>2. Create a group policy that sets the desktop background (hint: google) <br/>3. Apply this setting to the security group you created </br>4. Send screenshots of applied background and set group policy to ubnetdef@buffalo.edu</a></td>
+			<td>March 9, 2017 @ 6:00PM</td>
+		</tr>
+		<tr>
+			<td>Setup firewall rules as per Nicks lecture (see final slide of lecture for details)</a></td>
+			<td>March 16, 2017 @ 6:00PM</td>
+		</tr>
+		<tr>
+			<td>Setup the LAN portion of your network as described in the project network diagram found on slack.</td>
+			<td>April 6, 2017 @ 6:00PM</td>
+		</tr>
+		<tr>
+			<td>1. Setup the DMZ portion of your network as described in the project network diagram found on slack. <br/> 2. Document this process in the format discussed in class on April 7, and submit your report to Ubnetdef@buffalo.edu </td>
+			<td>April 13, 2017 @ 11:59PM</td>
 		</tr>
 	</tbody>
 </table>
@@ -173,10 +211,29 @@ The best way to request assistance is to ask on the `#syssec` channel on UBNetDe
 			</thead>
 			<tbody>
 				<tr>
-					<td>TBD</td>
-					<td>100%</td>
+					<td>Active Class Participation &amp; Attendance</td>
+					<td>25%</td>
 				</tr>
 
+				<tr>
+					<td>Competition Participation</td>
+					<td>25%</td>
+				</tr>
+
+				<tr>
+					<td>Class Project</td>
+					<td>25%</td>
+				</tr>
+
+				<tr>
+					<td>Final Presentation</td>
+					<td>15%</td>
+				</tr>
+
+				<tr>
+					<td>Peer Evaluations</td>
+					<td>10%</td>
+				</tr>
                 <tr>
 					<td><strong>Total</strong></td>
 					<td><strong>100%</strong></td>
