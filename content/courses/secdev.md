@@ -17,7 +17,7 @@ This is an advanced course, geared for students experienced in cyber security.
 		<tr>
 			<th>Name</th>
 			<th>Email</th>
-			<th>Slack Username</th>
+			<th>Chat Username</th>
 		</tr>
 	</thead>
 	<tbody>

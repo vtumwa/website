@@ -23,7 +23,7 @@ The course is built on the premise that students learn best by actively doing, a
 		<tr>
 			<th>Name</th>
 			<th>Email</th>
-			<th>Slack Username</th>
+			<th>Chat Username</th>
 		</tr>
 	</thead>
 	<tbody>

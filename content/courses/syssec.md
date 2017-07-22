@@ -18,7 +18,7 @@ Faculty Instructors are responsible for administering the course in accordance w
 		<tr>
 			<th>Name</th>
 			<th>Email</th>
-			<th>Slack Username</th>
+			<th>Chat Username</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -43,7 +43,7 @@ Student Instructors are responsible for running the class.  Most questions, unle
 		<tr>
 			<th>Name</th>
 			<th>Email</th>
-			<th>Slack Username</th>
+			<th>Chat Username</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -78,8 +78,8 @@ Student Instructors are responsible for running the class.  Most questions, unle
 			<td><a href="https://ubnetdef.org/courses/syssec">https://ubnetdef.org/courses/syssec</a></td>
 		</tr>
 		<tr>
-			<td>Slack Channel</td>
-			<td><a href="https://ubnetdef.slack.com">https://ubnetdef.slack.com</a></td>
+			<td>Chat Channel</td>
+			<td><a href="https://chat.ubnetdef.org">https://chat.ubnetdef.org</a></td>
 		</tr>
 		<tr>
 			<td>Wiki</td>
@@ -160,7 +160,7 @@ All students are required to participate fully in a Cyber Security competition, 
 </table>
 
 ## Getting Assistance
-The best way to request assistance is to ask on the `#syssec` channel on UBNetDef’s slack. The instructors and mentors are constantly on the slack, so it’s likely you will get a response within 24-hours, if not less.  If you do not have access to the UBNetDef slack, please contact an instructor.
+The best way to request assistance is to ask on the `Systems Security` channel on UBNetDef’s chat server. The instructors and mentors are constantly on the server, so it’s likely you will get a response within 24-hours, if not less.  If you do not have access to the UBNetDef chat server, please contact an instructor.
 
 # Grading Policy
 <div class="row">
