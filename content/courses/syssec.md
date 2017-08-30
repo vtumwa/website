@@ -48,24 +48,44 @@ Student Instructors are responsible for running the class.  Most questions, unle
 	</thead>
 	<tbody>
 		<tr>
+			<td>David Adler</td>
+			<td>davidadl@buffalo.edu</td>
+			<td>d4ve_</td>
+		</tr>
+		<tr>
 			<td>Jered Geist</td>
 			<td>jeredgei@buffalo.edu</td>
 			<td>jered</td>
 		</tr>
 		<tr>
-			<td>Nick Brase</td>
+			<td>Michael Siracuse</td>
+			<td>mwsiracu@buffalo.edu</td>
+			<td>cusemanmike</td>
+		</tr>
+		<tr>
+			<td>Nicholas Brase</td>
 			<td>nrbrase@buffalo.edu</td>
 			<td>nickbrase</td>
+		</tr>
+		<tr>
+			<td>Ross Ventresca</td>
+			<td>rossvent@buffalo.edu</td>
+			<td>ross</td>
 		</tr>
 		<tr>
 			<td>Stefan Jagroop</td>
 			<td>stefanja@buffalo.edu</td>
 			<td>stefanja</td>
 		</tr>
-        <tr>
+		<tr>
 			<td>Stephen James</td>
 			<td>sjames5@buffalo.edu</td>
 			<td>stephenorjames</td>
+		</tr>
+		<tr>
+			<td>Vincent Bruno</td>
+			<td>vnbruno@buffalo.edu</td>
+			<td>vince</td>
 		</tr>
 	</tbody>
 </table>
@@ -136,7 +156,7 @@ Coming soon
 Attendance for all lectures is required. One absence or late arrival is permitted without penalty. Students arriving late or unprepared may also receive a penalty at the discretion of the instructor. Absences due to illness may be excused if the instructor is notified in advance, and the illness is documented by a physician or healthcare professional.
 
 ## Competition Participation
-All students are required to participate fully in a Cyber Security competition, as well as the UB Lockdown competition. Various competitions will be announced throughout the academic semester.
+All students are required to participate fully in at least two cyber-security competitions, including the UB Lockdown competition. Various competitions will be announced throughout the academic semester.
 
 
 ## Homework Assignments
