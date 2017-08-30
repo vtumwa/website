@@ -167,8 +167,8 @@ All students are required to participate fully in at least two cyber-security co
 <table class="table table-bordered">
 	<thead>
 		<tr>
-			<td style="width: 75%"><strong>Homework</strong></td>
-			<td style="width: 25%"><strong>Due Date</strong></td>
+			<th style="width: 75%">Homework</th>
+			<th style="width: 25%">Due Date</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -188,7 +188,7 @@ The best way to request assistance is to ask on the `Systems Security` channel o
 		<table class="table table-bordered" style="max-width: 600px;">
 			<thead>
 				<tr>
-					<td colspan="6"><strong>Systems Security Grading Scale</strong></td>
+					<th colspan="6">Systems Security Grading Scale</th>
 				</tr>
 			</thead>
 			<tbody>
