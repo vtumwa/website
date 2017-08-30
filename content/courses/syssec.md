@@ -131,11 +131,11 @@ Student Instructors are responsible for running the class.  Most questions, unle
 		</tr>
 		<tr>
 			<td>Defend a Machine from Real-time Attackers</td>
-			<td>Course</td>
+			<td>Course &amp; Competitions</td>
 		</tr>
 		<tr>
 			<td>Work effectively in a team</td>
-			<td>Project &amp; Competitionss</td>
+			<td>Project &amp; Competitions</td>
 		</tr>
 		<tr>
 			<td>Identify threats and vulnerabilities of systems</td>
@@ -143,7 +143,7 @@ Student Instructors are responsible for running the class.  Most questions, unle
 		</tr>
         <tr>
 			<td>Effectively communicate via written reports and presentation skills</td>
-			<td>Project and Final Presentation</td>
+			<td>Project &amp; Final Presentation</td>
 		</tr>
 	</tbody>
 </table>
