@@ -149,7 +149,7 @@ Student Instructors are responsible for running the class.  Most questions, unle
 </table>
 
 # Course Materials
-Coming soon
+_Coming soon._
 
 # Course Requirements
 ## Lectures
@@ -161,19 +161,83 @@ All students are required to participate fully in at least two cyber-security co
 
 ## Homework Assignments
 <div class="alert alert-info">
-	<p><i class="glyphicon glyphicon-info-sign"></i> This list of homework assignments is subject to change.</p>
+	<p><i class="glyphicon glyphicon-info-sign"></i> This section is subject to change.</p>
+</div>
+
+<p>Homework will generally be assigned twice each week, and will likely be based on the topics in the <a href="#class-schedule">class schedule</a>. Unless otherwise specified, they will be released and submitted at <a href="https://homework.ubnetdef.org/">homework.ubnetdef.org</a> (the "Homework Engine").</p>
+
+
+## Class Schedule
+<div class="alert alert-info">
+	<p><i class="glyphicon glyphicon-info-sign"></i> This schedule is subject to change.</p>
 </div>
 
 <table class="table table-bordered">
 	<thead>
 		<tr>
-			<th style="width: 75%">Homework</th>
-			<th style="width: 25%">Due Date</th>
+			<th style="width: 25%">Week</th>
+			<th style="width: 75%">Topic</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
+			<td>Week 1 (8/31/17)</td>
+			<td>Welcome to UBNetDef, introductions, 1000 mile overview, our environment/vSphere, Mattermost</td>
+		</tr>
+		<tr>
+			<td>Week 2 (9/7/17)</td>
+			<td>Risk management, company creation, access to vSphere, virtualization</td>
+		</tr>
+		<tr>
+			<td>Week 3 (9/14/17)</td>
+			<td>Networking (conceptual), pfSense basics</td>
+		</tr>
+		<tr>
+			<td>Week 4 (9/21/17)</td>
+			<td>Networking (advanced)</td>
+		</tr>
+		<tr>
+			<td>Week 5 (9/28/17)</td>
+			<td>Guest presentation: Deloitte</td>
+		</tr>
+		<tr>
+			<td>Week 6 (10/5/17)</td>
+			<td>Linux</td>
+		</tr>
+		<tr>
+			<td>Week 7 (10/12/17)</td>
+			<td>Windows</td>
+		</tr>
+		<tr>
+			<td>Week 8 (10/19/17)</td>
+			<td>Services</td>
+		</tr>
+		<tr>
+			<td>Week 9 (10/26/17)</td>
+			<td>Networking (subnetting), firewalls</td>
+		</tr>
+		<tr>
+			<td>Week 10 (11/2/17)</td>
 			<td>TBD</td>
+		</tr>
+		<tr>
+			<td>Week 11 (11/9/17)</td>
+			<td>Guest presentation: Tim Mongan</td>
+		</tr>
+		<tr>
+			<td>Week 12 (11/16/17)</td>
+			<td>(NO CLASS - LOCKDOWN)</td>
+		</tr>
+		<tr>
+			<td>Week 13 (11/23/17)</td>
+			<td>(NO CLASS - Thanksgiving)</td>
+		</tr>
+		<tr>
+			<td>Week 14 (11/30/17)</td>
+			<td>TBD</td>
+		</tr>
+		<tr>
+			<td>Week 15 (12/7/17)</td>
 			<td>TBD</td>
 		</tr>
 	</tbody>
@@ -196,7 +260,6 @@ The best way to request assistance is to ask on the `Systems Security` channel o
 					<td>TBD</td>
 					<td>100%</td>
 				</tr>
-
                 <tr>
 					<td><strong>Total</strong></td>
 					<td><strong>100%</strong></td>
