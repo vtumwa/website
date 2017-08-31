@@ -1,4 +1,4 @@
 <?php
-$url = 'https://www.youtube.com/watch?v=dQw4w9WgXcQ';
+$url = 'https://goo.gl/forms/1k2G9RQbATAVRHpH2';
 
 header('Location: ' . $url);
