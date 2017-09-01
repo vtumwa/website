@@ -1,8 +1,8 @@
----
-date: "2016-09-01"
+﻿---
+date: "2017-08-31"
 title: "Welcome to UBNetDef"
 
-course: "Systems Security - Fall 2016"
+course: "Systems Security - Fall 2017"
 author: "The UBNetDef Team"
 
 slug: "welcome_to_ubnetdef"
@@ -10,6 +10,8 @@ navbar_active_link: "lectures"
 
 summary: |
   Hello, World. Welcome to UBNetDef 2016.
+
+slides: "/slides/fall2017/welcome.pdf"
 
 has_page: true
 ---
