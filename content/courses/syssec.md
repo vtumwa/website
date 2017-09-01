@@ -218,7 +218,7 @@ All students are required to participate fully in at least two cyber-security co
 		</tr>
 		<tr>
 			<td>Week 10 (11/2/17)</td>
-			<td>TBD</td>
+			<td>Intro to network analysis</td>
 		</tr>
 		<tr>
 			<td>Week 11 (11/9/17)</td>
@@ -226,7 +226,7 @@ All students are required to participate fully in at least two cyber-security co
 		</tr>
 		<tr>
 			<td>Week 12 (11/16/17)</td>
-			<td>(NO CLASS - LOCKDOWN)</td>
+			<td>(PREP FOR LOCKDOWN)</td>
 		</tr>
 		<tr>
 			<td>Week 13 (11/23/17)</td>
@@ -234,7 +234,7 @@ All students are required to participate fully in at least two cyber-security co
 		</tr>
 		<tr>
 			<td>Week 14 (11/30/17)</td>
-			<td>TBD</td>
+			<td>Lockdow debrief / Guest presentation: ISSA</td>
 		</tr>
 		<tr>
 			<td>Week 15 (12/7/17)</td>
@@ -257,8 +257,14 @@ The best way to request assistance is to ask on the `Systems Security` channel o
 			</thead>
 			<tbody>
 				<tr>
-					<td>TBD</td>
-					<td>100%</td>
+					<td>Homework</td>
+					<td>25%</td>
+					<td>Attendance</td>
+					<td>25%</td>
+					<td>Project</td>
+					<td>25%</td>
+					<td>Competitions</td>
+					<td>25%</td>
 				</tr>
                 <tr>
 					<td><strong>Total</strong></td>
