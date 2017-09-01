@@ -16,5 +16,5 @@ summary: |
 
 slides: "/slides/fall2017/welcome.pdf"
 
-has_page: false
+has_page: true
 ---
