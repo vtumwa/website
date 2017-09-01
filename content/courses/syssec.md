@@ -226,7 +226,7 @@ All students are required to participate fully in at least two cyber-security co
 		</tr>
 		<tr>
 			<td>Week 12 (11/16/17)</td>
-			<td>(PREP FOR LOCKDOWN)</td>
+			<td>PREP FOR LOCKDOWN</td>
 		</tr>
 		<tr>
 			<td>Week 13 (11/23/17)</td>
@@ -238,7 +238,7 @@ All students are required to participate fully in at least two cyber-security co
 		</tr>
 		<tr>
 			<td>Week 15 (12/7/17)</td>
-			<td>TBD</td>
+			<td>The Crucible</td>
 		</tr>
 	</tbody>
 </table>
@@ -259,14 +259,20 @@ The best way to request assistance is to ask on the `Systems Security` channel o
 				<tr>
 					<td>Homework</td>
 					<td>25%</td>
+				</tr>
+				<tr>
 					<td>Attendance</td>
 					<td>25%</td>
+				</tr>
+				<tr>
 					<td>Project</td>
 					<td>25%</td>
+				</tr>
+				<tr>
 					<td>Competitions</td>
 					<td>25%</td>
 				</tr>
-                <tr>
+		<tr>
 					<td><strong>Total</strong></td>
 					<td><strong>100%</strong></td>
 				</tr>
