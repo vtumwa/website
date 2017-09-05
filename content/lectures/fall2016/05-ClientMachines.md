@@ -2,7 +2,9 @@
 date: "2016-10-06"
 title: "Client Machines"
 
-course: "Systems Security - Fall 2016"
+course: "Systems Security"
+semester: "Fall"
+year: 2016
 author: "Aaron Fiebelkorn & Stefan Jagroop"
 
 slug: "client_machines"

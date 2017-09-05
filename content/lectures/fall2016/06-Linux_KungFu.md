@@ -2,7 +2,9 @@
 date: "2016-10-06"
 title: "Linux KungFu"
 
-course: "Systems Security - Fall 2016"
+course: "Systems Security"
+semester: "Fall"
+year: 2016
 author: "James Droste"
 
 slug: "linux_kungfu"

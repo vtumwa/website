@@ -5,8 +5,11 @@
 		<h1>Lectures</h1>
 	</div>
 
-	{{ range (.Data.Pages.GroupByParam "course").Reverse }}
-	<h2>{{ .Key }}</h2>
+	{{ range (.Data.Pages.GroupByParam "course") }}
+	{{ range (.Pages.GroupByParam "year").Reverse }}
+	{{ range (.Pages.GroupByParam "semester") }}
+	{{ $params := (index .Pages 0).Params }}
+	<h2>{{ $params.course }} - {{ $params.semester }} {{ $params.year }}</h2>
 
 	{{ range .Pages.ByDate.Reverse }}
 	{{ if and (isset .Params "has_page") (.Params.has_page) }}
@@ -20,6 +23,8 @@
 	<p>{{ .Params.summary }}</p>
 	{{ end }}
 
+	{{ end }}
+	{{ end }}
 	{{ end }}
 </div>
 

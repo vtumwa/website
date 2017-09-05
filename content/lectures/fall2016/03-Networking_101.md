@@ -2,7 +2,9 @@
 date: "2016-09-15"
 title: "Networking 101"
 
-course: "Systems Security - Fall 2016"
+course: "Systems Security"
+semester: "Fall"
+year: 2016
 author: "Tanmay Bhagwat"
 
 slug: "networking_101"

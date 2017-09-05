@@ -2,7 +2,9 @@
 date: "2016-09-01"
 title: "Welcome to UBNetDef"
 
-course: "Systems Security - Fall 2016"
+course: "Systems Security"
+semester: "Fall"
+year: 2016
 author: "The UBNetDef Team"
 
 slug: "welcome_to_ubnetdef"

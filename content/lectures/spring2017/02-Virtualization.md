@@ -2,7 +2,9 @@
 date: "2017-02-09"
 title: "Virtualization"
 
-course: "Systems Security - Spring 2017"
+course: "Systems Security"
+semester: "Spring"
+year: 2017
 author: "Jered Geist"
 
 slug: "virtualization"

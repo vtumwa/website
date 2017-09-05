@@ -2,7 +2,9 @@
 date: "2017-03-09"
 title: "Firewalls"
 
-course: "Systems Security - Spring 2017"
+course: "Systems Security"
+semester: "Spring"
+year: 2017
 author: "Nicholas Brase"
 
 slug: "firewalls"

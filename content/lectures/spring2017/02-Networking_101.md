@@ -2,7 +2,9 @@
 date: "2017-02-09"
 title: "Networking 101"
 
-course: "Systems Security - Spring 2017"
+course: "Systems Security"
+semester: "Spring"
+year: 2017
 author: "Stefan Jagroop"
 
 slug: "networking_101"

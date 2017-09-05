@@ -2,7 +2,9 @@
 date: "2016-10-13"
 title: "Windows"
 
-course: "Systems Security - Fall 2016"
+course: "Systems Security"
+semester: "Fall"
+year: 2016
 author: "Jered Geist"
 
 slug: "windows"
