@@ -153,7 +153,7 @@ _Coming soon._
 
 # Course Requirements
 ## Lectures
-Attendance for all lectures is required. One absence or late arrival is permitted without penalty. Students arriving late or unprepared may also receive a penalty at the discretion of the instructor. Absences due to illness may be excused if the instructor is notified in advance, and the illness is documented by a physician or healthcare professional.
+Attendance for all lectures is required. Two absence or late arrival is permitted without penalty. Students arriving late or unprepared may also receive a penalty at the discretion of the instructor. Absences due to illness may be excused if the instructor is notified in advance, and the illness is documented by a physician or healthcare professional.
 
 ## Competition Participation
 All students are required to participate fully in at least two cyber-security competitions, including the UB Lockdown competition. Various competitions will be announced throughout the academic semester.
@@ -257,15 +257,15 @@ The best way to request assistance is to ask on the `Systems Security` channel o
 			</thead>
 			<tbody>
 				<tr>
-					<td>Homework</td>
+					<td>Attendence > 2 Absenses == F</td>
 					<td>25%</td>
 				</tr>
 				<tr>
-					<td>Attendance</td>
+					<td>Homework Assignments</td>
 					<td>25%</td>
 				</tr>
 				<tr>
-					<td>Project</td>
+					<td>Runbook Assignments</td>
 					<td>25%</td>
 				</tr>
 				<tr>
