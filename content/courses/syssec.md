@@ -304,6 +304,10 @@ The best way to request assistance is to ask on the `Systems Security` channel o
 					<td> B+ </td>
 					<td> 83.33% </td>
 				</tr>
+                <tr>
+					<td> B </td>
+					<td> 80% </td>
+				</tr>
 				<tr>
 					<td> B- </td>
 					<td> 76.66% </td>
