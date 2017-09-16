@@ -1,4 +1,4 @@
-﻿---
+---
 date: "2017-08-31"
 title: "Systems Security"
 navbar_active_link: "courses"
@@ -153,7 +153,7 @@ _Coming soon._
 
 # Course Requirements
 ## Lectures
-Attendance for all lectures is required. Two absence or late arrival is permitted without penalty. Students arriving late or unprepared may also receive a penalty at the discretion of the instructor. Absences due to illness may be excused if the instructor is notified in advance, and the illness is documented by a physician or healthcare professional.
+Attendance for all lectures is required. Two absences or late arrival is permitted without penalty. Greater than two means you recieve an F in the course. Students arriving late or unprepared may also receive a penalty at the discretion of the instructor. Absences due to illness may be excused if the instructor is notified in advance, and the illness is documented by a physician or healthcare professional.
 
 ## Competition Participation
 All students are required to participate fully in at least two cyber-security competitions, including the UB Lockdown competition. Various competitions will be announced throughout the academic semester.
@@ -186,7 +186,7 @@ All students are required to participate fully in at least two cyber-security co
 		</tr>
 		<tr>
 			<td>Week 2 (9/7/17)</td>
-			<td>Risk management, company creation, access to vSphere, virtualization</td>
+			<td>Risk management, Company creation, access to vSphere, Virtualization</td>
 		</tr>
 		<tr>
 			<td>Week 3 (9/14/17)</td>
@@ -218,7 +218,7 @@ All students are required to participate fully in at least two cyber-security co
 		</tr>
 		<tr>
 			<td>Week 10 (11/2/17)</td>
-			<td>Intro to network analysis</td>
+			<td>Intro to Network Analysis</td>
 		</tr>
 		<tr>
 			<td>Week 11 (11/9/17)</td>
@@ -234,7 +234,7 @@ All students are required to participate fully in at least two cyber-security co
 		</tr>
 		<tr>
 			<td>Week 14 (11/30/17)</td>
-			<td>Lockdow debrief / Guest presentation: ISSA</td>
+			<td>Lockdown debrief / Guest presentation: ISSA</td>
 		</tr>
 		<tr>
 			<td>Week 15 (12/7/17)</td>
@@ -257,7 +257,7 @@ The best way to request assistance is to ask on the `Systems Security` channel o
 			</thead>
 			<tbody>
 				<tr>
-					<td>Attendence > 2 Absenses == F</td>
+					<td>Attendence </td>
 					<td>25%</td>
 				</tr>
 				<tr>
@@ -272,10 +272,70 @@ The best way to request assistance is to ask on the `Systems Security` channel o
 					<td>Competitions</td>
 					<td>25%</td>
 				</tr>
-		<tr>
+		        <tr>
 					<td><strong>Total</strong></td>
 					<td><strong>100%</strong></td>
 				</tr>
+                
+                
+			</tbody>
+		</table>
+	</div>
+</div>
+
+<div class="row">
+    <div class="col-md-12">
+		<table class="table table-bordered" style="max-width: 600px;">
+			<thead>
+				<tr>
+					<th colspan="6">Systems Security Grading Scale</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td> A </td>
+					<td> 90% </td>
+				</tr>
+				<tr>
+					<td> A- </td>
+					<td> 86.66% </td>
+				</tr>
+				<tr>
+					<td> B+ </td>
+					<td> 83.33% </td>
+				</tr>
+				<tr>
+					<td> B- </td>
+					<td> 76.66% </td>
+				</tr>
+                <tr>
+					<td> C+ </td>
+					<td> 73.33% </td>
+				</tr>
+                <tr>
+					<td> C </td>
+					<td> 70% </td>
+				</tr>
+                <tr>
+					<td> C- </td>
+					<td> 66.66% </td>
+				</tr> 
+                <tr>
+					<td> D+ </td>
+					<td> 63.66% </td>
+				</tr> 
+                <tr>
+					<td> D </td>
+					<td> 60% </td>
+				</tr> 
+                <tr>
+					<td> D- </td>
+					<td> 56.66% </td>
+				</tr> 
+                <tr>
+					<td> F </td>
+					<td> 0 - 53%  </td>
+				</tr> 
 			</tbody>
 		</table>
 	</div>
