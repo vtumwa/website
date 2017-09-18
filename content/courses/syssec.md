@@ -214,7 +214,7 @@ All students are required to participate fully in at least two cyber-security co
 		</tr>
 		<tr>
 			<td>Week 9 (10/26/17)</td>
-			<td>Networking (subnetting), firewalls</td>
+			<td>Networking (subnetting), Firewalls</td>
 		</tr>
 		<tr>
 			<td>Week 10 (11/2/17)</td>
