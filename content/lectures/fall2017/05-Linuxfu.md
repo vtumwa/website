@@ -1,5 +1,5 @@
 ---
-date: "2017-10-5"
+date: "2017-10-05"
 title: "Linux Fu"
 
 course: "Systems Security"
