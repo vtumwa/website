@@ -1,11 +1,11 @@
 ﻿---
-date: "2017-08-31"
+date: "2017-12-04"
 title: "Offensive Security (r00tsec)"
 navbar_active_link: "courses"
 
-active: true
+active: false
 
-subtext: "Fall 2017 / Online / MWF - 1 Hour"
+subtext: "Spring 2018 / Online / MWF - 1 Hour"
 ---
 <div class="alert alert-info">
 	<strong>NOTE</strong>: Participation in this course is subject to instructor approval
@@ -41,7 +41,7 @@ Upon completion of this course, students should be prepared for the [Penetration
 	<tbody>
 		<tr>
 			<td>Website</td>
-			<td><a href="https://r00tsec.org">https://r00tsec.org</a> (Coming Soon)</td>
+			<td><a href="https://r00tsec.org">https://r00tsec.org</a></td>
 		</tr>
 		<tr>
 			<td>Chat Channel</td>
@@ -88,7 +88,7 @@ TBD
 ## Final Exam
 
 # Getting Assistance
-The best way to request assistance is to ask on the `r00tsec` channel on UBNetDef’s chat server. You should expect assistance within 6 hours, or less.  If you do not have access to the UBNetDef chat server, please contact the instructor.
+The best way to request assistance is to ask on the `#r00tsec` channel on UBNetDef’s chat server. You should expect assistance within 6 hours, or less.  If you do not have access to the UBNetDef chat server, please contact the instructor.
 
 # Grading Policy
 <div class="row">
