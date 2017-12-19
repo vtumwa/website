@@ -1,15 +1,15 @@
 ---
-date: "2018-01-29"
+date: "2017-08-31"
 title: "Systems Security"
 navbar_active_link: "courses"
 
 course: "Systems Security"
-semester: "Spring"
-year: 2018
+semester: "Fall"
+year: 2017
 
-active: true
+active: false
 
-subtext: "Spring 2018 / Jacobs B30 / Thursdays 6:30PM - 9:30PM"
+subtext: "Fall 2017 / Jacobs B30 / Thursdays 6:30PM - 9:30PM"
 ---
 # Overview
 During this introductory course, geared for students new to cyber security, students will be introduced to fundamental security topics.  Students will critically examine concepts such as basic networking, system administration, team dynamics and system security as well as identifying and applying basic security hardening techniques.  Students will gain practical experience through a virtualized lab environment where they will be building a small corporate network. Students will also work as a team towards the completion of a semester long research project of their choosing. 
@@ -185,8 +185,64 @@ All students are required to participate fully in at least two cyber-security co
 	</thead>
 	<tbody>
 		<tr>
-			<td>Week X</td>
-			<td>Topic</td>
+			<td>Week 1 (8/31/17)</td>
+			<td>Welcome to UBNetDef, introductions, 1000 mile overview, our environment/vSphere, Mattermost</td>
+		</tr>
+		<tr>
+			<td>Week 2 (9/7/17)</td>
+			<td>Risk management, Company creation, access to vSphere, Virtualization</td>
+		</tr>
+		<tr>
+			<td>Week 3 (9/14/17)</td>
+			<td>Networking (conceptual), pfSense basics</td>
+		</tr>
+		<tr>
+			<td>Week 4 (9/21/17)</td>
+			<td>Networking (advanced)</td>
+		</tr>
+		<tr>
+			<td>Week 5 (9/28/17)</td>
+			<td>Guest presentation: Deloitte</td>
+		</tr>
+		<tr>
+			<td>Week 6 (10/5/17)</td>
+			<td>Linux</td>
+		</tr>
+		<tr>
+			<td>Week 7 (10/12/17)</td>
+			<td>Windows</td>
+		</tr>
+		<tr>
+			<td>Week 8 (10/19/17)</td>
+			<td>Services</td>
+		</tr>
+		<tr>
+			<td>Week 9 (10/26/17)</td>
+			<td>Networking (subnetting), Firewalls</td>
+		</tr>
+		<tr>
+			<td>Week 10 (11/2/17)</td>
+			<td>Intro to Network Analysis</td>
+		</tr>
+		<tr>
+			<td>Week 11 (11/9/17)</td>
+			<td>Guest presentation: Tim Mongan</td>
+		</tr>
+		<tr>
+			<td>Week 12 (11/16/17)</td>
+			<td>PREP FOR LOCKDOWN</td>
+		</tr>
+		<tr>
+			<td>Week 13 (11/23/17)</td>
+			<td>(NO CLASS - Thanksgiving)</td>
+		</tr>
+		<tr>
+			<td>Week 14 (11/30/17)</td>
+			<td>Lockdown debrief / Guest presentation: ISSA</td>
+		</tr>
+		<tr>
+			<td>Week 15 (12/7/17)</td>
+			<td>The Crucible</td>
 		</tr>
 	</tbody>
 </table>

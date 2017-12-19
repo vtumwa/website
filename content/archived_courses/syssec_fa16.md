@@ -3,6 +3,10 @@ date: "2016-09-01"
 title: "Systems Security"
 navbar_active_link: "courses"
 
+course: "Systems Security"
+semester: "Fall"
+year: 2016
+
 active: false
 
 subtext: "Fall 2016 / Jacobs B30 / Thursdays 6:30PM - 9:30PM"

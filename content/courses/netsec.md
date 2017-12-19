@@ -1,11 +1,15 @@
 ---
-date: "2017-08-31"
+date: "2018-01-29"
 title: "Network Security"
 navbar_active_link: "courses"
 
+course: "Network Security"
+semester: "Spring"
+year: 2018
+
 active: true
 
-subtext: "Fall 2017 / Online / Daily"
+subtext: "Spring 2018 / Online / Daily"
 ---
 
 # Overview

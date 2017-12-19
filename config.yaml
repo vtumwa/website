@@ -27,13 +27,9 @@ menu:
     - Name: "---"
       Weight: 250
       Parent: "courses"
-    - Name: "Systems Security (Spring 2017)"
+    - Name: "Previous Courses"
       Weight: 251
-      URL: "/courses/syssec_sp17"
-      Parent: "courses"
-    - Name: "Systems Security (Fall 2016)"
-      Weight: 251
-      URL: "/courses/syssec_fa16"
+      URL: "/archived_courses"
       Parent: "courses"
 
     - Name: "lectures"

@@ -1,7 +1,11 @@
 ﻿---
-date: "2017-12-04"
+date: "2018-01-29"
 title: "Offensive Security (r00tsec)"
 navbar_active_link: "courses"
+
+course: "Offensive Security"
+semester: "Spring"
+year: 2018
 
 active: false
 
