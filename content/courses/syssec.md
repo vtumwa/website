@@ -52,34 +52,14 @@ Student Instructors are responsible for running the class.  Most questions, unle
 	</thead>
 	<tbody>
 		<tr>
-			<td>David Adler</td>
-			<td>davidadl@buffalo.edu</td>
-			<td>d4ve_</td>
-		</tr>
-		<tr>
-			<td>Jered Geist</td>
-			<td>jeredgei@buffalo.edu</td>
-			<td>jered</td>
-		</tr>
-		<tr>
-			<td>Michael Siracuse</td>
-			<td>mwsiracu@buffalo.edu</td>
-			<td>cusemanmike</td>
-		</tr>
-		<tr>
-			<td>Nicholas Brase</td>
-			<td>nrbrase@buffalo.edu</td>
-			<td>nickbrase</td>
+			<td>Alexander Bitar</td>
+			<td>abitar@buffalo.edu</td>
+			<td>alexanderbitar</td>
 		</tr>
 		<tr>
 			<td>Ross Ventresca</td>
 			<td>rossvent@buffalo.edu</td>
 			<td>ross</td>
-		</tr>
-		<tr>
-			<td>Stefan Jagroop</td>
-			<td>stefanja@buffalo.edu</td>
-			<td>stefanja</td>
 		</tr>
 		<tr>
 			<td>Stephen James</td>
