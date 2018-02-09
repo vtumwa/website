@@ -59,7 +59,7 @@ Student Instructors are responsible for running the class.  Most questions, unle
 		<tr>
 			<td>Christopher Klimek</td>
 			<td>cmklimek@buffalo.edu</td>
-			<td>cmklimek</td>
+			<td>chrisklimek</td>
 		</tr>
 		<tr>
 			<td>Ross Ventresca</td>
