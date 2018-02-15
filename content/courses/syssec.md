@@ -102,6 +102,14 @@ Student Instructors are responsible for running the class.  Most questions, unle
 			<td>vCenter Client</td>
 			<td><a href="https://ubnetdef.org/vcenter">https://ubnetdef.org/vcenter</a></td>
 		</tr>
+		<tr>
+			<td>Homework Engine</td>
+			<td><a href="https://homework.ubnetdef.org">https://homework.ubnetdef.org</a></td>		
+		</tr>
+		<tr>
+			<td>Virtual Box</td>
+			<td><a href= "https://www.virtualbox.org/wiki/Downloads">https://www.virtualbox.org/wiki/Downloads</a></td>
+		</tr>
 	</tbody>
 </table>
 
@@ -137,8 +145,6 @@ Student Instructors are responsible for running the class.  Most questions, unle
 	</tbody>
 </table>
 
-# Course Materials
-_Coming soon._
 
 # Course Requirements
 ## Lectures
@@ -165,14 +171,87 @@ All students are required to participate fully in at least two cyber-security co
 	<thead>
 		<tr>
 			<th style="width: 25%">Week</th>
-			<th style="width: 75%">Topic</th>
+			<th style="width: 45%">Topic</th>
+			<th style="width: 30%">Homework</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
-			<td>Week X</td>
-			<td>Topic</td>
+			<td>Week 1</td>
+			<td>ISSA Guest Speaker</td>
+			<td>Codecademy Command Line</td>
 		</tr>
+		<tr>
+			<td>Week 2</td>
+			<td>Tim Mongan Guest Lecture</td>
+			<td>OverTheWire assignment</td>
+		</tr>
+		<tr>
+			<td>Week 3</td>
+			<td>Networking and Virtualization</td>
+			<td>pfSense Runbook</td>
+		</tr>
+		<tr>
+			<td>Week 4</td>
+			<td>Linux</td>
+			<td>Linux Setup</td>
+		</tr>
+		<tr>
+			<td>Week 5</td>
+			<td>Windows</td>
+			<td>Windows Runbook</td>
+		</tr>
+		<tr>
+			<td>Week 6</td>
+			<td>ISSA Lock Picking Event</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Week 7</td>
+			<td>TBA</td>
+			<td>TBA</td>
+		</tr>
+		<tr>
+			<td>Week 8</td>
+			<td>Spring Recess</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Week 9</td>
+			<td>Guest Lecture</td>
+			<td>TBA</td>
+		</tr>
+		<tr>
+			<td>Week 10</td>
+			<td>Firewalls and Services</td>
+			<td>Services Homework</td>
+		</tr>
+		<tr>
+			<td>Week 11</td>
+			<td>Advanced Networking</td>
+			<td>Networking Homework</td>
+		</tr>
+		<tr>
+			<td>Week 12</td>
+			<td>TBA</td>
+			<td>Prepare for Lockdown</td>
+		</tr>
+		<tr>
+			<td>Week 13</td>
+			<td>Lockdown Debrief and Packet Analysis</td>
+			<td>Final Project Start</td>
+		</tr>
+		<tr>
+			<td>Week 14</td>
+			<td>TBA</td>
+			<td>Final Project</td>
+		</tr>
+		<tr>
+			<td>Week 15</td>
+			<td>TBA</td>
+			<td></td>
+		</tr>
+
 	</tbody>
 </table>
 
@@ -194,18 +273,27 @@ The best way to request assistance is to ask on the `Systems Security` channel o
 					<td>25%</td>
 				</tr>
 				<tr>
-					<td>Homework Assignments</td>
-					<td>25%</td>
+					<td>Lockdown</td>
+					<td>20%</td>
 				</tr>
 				<tr>
-					<td>Runbook Assignments</td>
-					<td>25%</td>
+					<td>Final Project</td>
+					<td>20%</td>
 				</tr>
 				<tr>
-					<td>Competitions</td>
-					<td>25%</td>
+					<td>Weekly Assignments</td>
+					<td>15%</td>
 				</tr>
-		        <tr>
+				<tr>
+					<td>Mini-Projects (Runbooks/Technical Documentation)</td>
+					<td>15%</td>
+				</tr>
+				<tr>
+					<td>Extra Competition</td>
+					<td>5%</td>
+				</tr>
+	
+		       		<tr>
 					<td><strong>Total</strong></td>
 					<td><strong>100%</strong></td>
 				</tr>
