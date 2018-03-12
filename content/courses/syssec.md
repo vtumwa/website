@@ -208,8 +208,8 @@ All students are required to participate fully in at least two cyber-security co
 		</tr>
 		<tr>
 			<td>Week 7</td>
-			<td>TBA</td>
-			<td>TBA</td>
+			<td>Governance and Risk Management</td>
+			<td>Executive Summary</td>
 		</tr>
 		<tr>
 			<td>Week 8</td>
@@ -218,32 +218,32 @@ All students are required to participate fully in at least two cyber-security co
 		</tr>
 		<tr>
 			<td>Week 9</td>
-			<td>Guest Lecture</td>
-			<td>TBA</td>
-		</tr>
-		<tr>
-			<td>Week 10</td>
 			<td>Firewalls and Services</td>
 			<td>Services Homework</td>
 		</tr>
 		<tr>
-			<td>Week 11</td>
+			<td>Week 10</td>
 			<td>Advanced Networking</td>
 			<td>Networking Homework</td>
 		</tr>
 		<tr>
+			<td>Week 11</td>
+			<td>Packet Analysis and Logs</td>
+			<td>TBD</td>
+		</tr>
+		<tr>
 			<td>Week 12</td>
+			<td>Working as a Team</td>
+			<td>TBD</td>
+		</tr>
+		<tr>
+			<td>Week 13</td>
 			<td>TBA</td>
 			<td>Prepare for Lockdown</td>
 		</tr>
 		<tr>
-			<td>Week 13</td>
-			<td>Lockdown Debrief and Packet Analysis</td>
-			<td>Final Project Start</td>
-		</tr>
-		<tr>
 			<td>Week 14</td>
-			<td>TBA</td>
+			<td>Lockdown Debrief and Guest Lecture</td>
 			<td>Final Project</td>
 		</tr>
 		<tr>
