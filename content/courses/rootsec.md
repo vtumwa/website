@@ -4,8 +4,10 @@ title: "Offensive Security (r00tsec)"
 navbar_active_link: "courses"
 
 course: "Offensive Security"
+course_number: 300
 semester: "Spring"
 year: 2018
+difficulty: "Advanced"
 
 active: false
 

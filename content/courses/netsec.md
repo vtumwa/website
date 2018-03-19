@@ -4,8 +4,10 @@ title: "Network Security"
 navbar_active_link: "courses"
 
 course: "Network Security"
+course_number: 200
 semester: "Spring"
 year: 2018
+difficulty: "Intermediate"
 
 active: true
 

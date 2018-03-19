@@ -4,8 +4,10 @@ title: "Security Development Program"
 navbar_active_link: "courses"
 
 course: "Security Development Program"
+course_number: 400
 semester: "Spring"
 year: 2018
+difficulty: "Advanced"
 
 active: true
 

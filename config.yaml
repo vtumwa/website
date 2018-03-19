@@ -8,7 +8,14 @@ menu:
   main:
     - Name: "about"
       Weight: 100
-      URL: "/about"
+    - Name: "FAQ"
+      Weight: 101
+      URL: "/about/faq"
+      Parent: "about"
+    - Name: "Competition Team"
+      Weight: 102
+      URL: "/about/competition-team"
+      Parent: "about"
 
     - Name: "courses"
       Weight: 200
@@ -36,12 +43,9 @@ menu:
       Weight: 300
       URL: "/lectures"
 
-    - Name: "competitions"
+    - Name: "lockdown"
       Weight: 400
-    - Name: "Lockdown"
-      Weight: 401
       URL: "https://lockdown.ubnetdef.org"
-      Parent: "competitions"
 
     - Name: "wiki"
       Weight: 500

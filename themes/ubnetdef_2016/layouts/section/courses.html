@@ -1,0 +1,18 @@
+{{ partial "header" . }}
+
+<div class="container">
+	<div class="page-header">
+		<h1>Courses</h1>
+	</div>
+
+	{{ range (.Pages.GroupByParam "course_number") }}
+	{{ range .Pages }}
+	{{ if and (isset .Params "active") (.Params.active) }}
+	<h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+	<p><strong>Difficulty</strong>: {{ .Params.difficulty }} / {{ .Params.subtext }}</p>
+	{{ end }}
+	{{ end }}
+	{{ end }}
+</div>
+
+{{ partial "footer" . }}

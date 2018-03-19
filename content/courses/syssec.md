@@ -4,8 +4,10 @@ title: "Systems Security"
 navbar_active_link: "courses"
 
 course: "Systems Security"
+course_number: 100
 semester: "Spring"
 year: 2018
+difficulty: "Beginner"
 
 active: true
 
