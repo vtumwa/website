@@ -4,10 +4,10 @@ title: "Competition Team"
 navbar_active_link: "about"
 ---
 
-UBNetDef's Competition Team is team of dedicated undergraduate students who represent UBNetDef in regional and national competitions focusing offensive and defensive security. Team membership is currently evaluated every semester.
+UBNetDef's Competition Team is a diverse group of dedicated undergraduate and graduate students who represent the University at Buffalo in regional and national competitions focusing on offensive and defensive security. Team membership is currently evaluated every semester.
 
 ## What competitions do you attend?
-Predomiately, we attend CPTC (Collegiate Penetration Testing Competition) in the Fall and CCDC (Collegiate Cyber Defense Competition) in the Spring.
+Predominantly, we attend CPTC (Collegiate Penetration Testing Competition) in the Fall and CCDC (Collegiate Cyber Defense Competition) in the Spring.
 
 ## Previous Competitions
 * [Northeast Collegiate Cyber Defense Competition](https://neccdc2018.org)
