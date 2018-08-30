@@ -195,17 +195,17 @@ All students are required to participate fully in at least two cyber-security co
 		<tr>
 			<td>Week 4</td>
 			<td>Windows</td>
-			<td>Active Directory</td>
+			<td>Windows Client, Install Active Directory</td>
 		</tr>
 		<tr>
 			<td>Week 5</td>
 			<td>Advanced Network</td>
-			<td>TBD</td>
+			<td>Active Directory Continued</td>
 		</tr>
 		<tr>
 			<td>Week 6</td>
 			<td>Services</td>
-			<td>TBD</td>
+			<td>LAMP Stack</td>
 		</tr>
 		<tr>
 			<td>Week 7</td>
@@ -215,7 +215,7 @@ All students are required to participate fully in at least two cyber-security co
 		<tr>
 			<td>Week 8</td>
 			<td>Case Study</td>
-			<td>TBD</td>
+			<td>Rogue Machine Audit</td>
 		</tr>
 		<tr>
 			<td>Week 9</td>
@@ -225,17 +225,17 @@ All students are required to participate fully in at least two cyber-security co
 		<tr>
 			<td>Week 10</td>
 			<td>Firewalls</td>
-			<td>TBD</td>
+			<td>Firewalls: Host vs Network</td>
 		</tr>
 		<tr>
 			<td>Week 11</td>
 			<td>Crytpo</td>
-			<td>TBD</td>
+			<td>SSH Keys, PGP, Encryption</td>
 		</tr>
 		<tr>
 			<td>Week 12</td>
 			<td>Working as a Team + Lockdown Review</td>
-			<td>FInal Project</td>
+			<td>Final Project</td>
 		</tr>
 		<tr>
 			<td>Week 13</td>
@@ -317,7 +317,7 @@ The best way to request assistance is to ask on the `Systems Security` channel o
 					<td> B+ </td>
 					<td> 83.33% </td>
 				</tr>
-                <tr>
+                		<tr>
 					<td> B </td>
 					<td> 80% </td>
 				</tr>
@@ -325,31 +325,31 @@ The best way to request assistance is to ask on the `Systems Security` channel o
 					<td> B- </td>
 					<td> 76.66% </td>
 				</tr>
-                <tr>
+               		 	<tr>
 					<td> C+ </td>
 					<td> 73.33% </td>
 				</tr>
-                <tr>
+                		<tr>
 					<td> C </td>
 					<td> 70% </td>
 				</tr>
-                <tr>
+                		<tr>
 					<td> C- </td>
 					<td> 66.66% </td>
 				</tr> 
-                <tr>
+                		<tr>
 					<td> D+ </td>
 					<td> 63.66% </td>
 				</tr> 
-                <tr>
+                		<tr>
 					<td> D </td>
 					<td> 60% </td>
 				</tr> 
-                <tr>
+                		<tr>
 					<td> D- </td>
 					<td> 56.66% </td>
 				</tr> 
-                <tr>
+                		<tr>
 					<td> F </td>
 					<td> 0 - 53%  </td>
 				</tr> 
