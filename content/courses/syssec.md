@@ -11,10 +11,10 @@ difficulty: "Beginner"
 
 active: true
 
-subtext: "Spring 2018 / Jacobs B30 / Thursdays 6:30PM - 9:30PM"
+subtext: "Fall 2018 / Jacobs B30 / Thursdays 6:30PM - 9:30PM"
 ---
 # Overview
-During this introductory course, geared for students new to cyber security, students will be introduced to fundamental security topics.  Students will critically examine concepts such as basic networking, system administration, team dynamics and system security as well as identifying and applying basic security hardening techniques.  Students will gain practical experience through a virtualized lab environment where they will be building a small corporate network. Students will also work as a team towards the completion of a semester long research project of their choosing. 
+During this introductory course, geared for students new to cybersecurity, students will be introduced to fundamental security topics.  Students will critically examine concepts such as basic networking, system administration, team dynamics and system security as well as identifying and applying basic security hardening techniques.  Students will gain practical experience through a virtualized lab environment where they will be building a small corporate network.
 
 # Faculty Instructors
 Faculty Instructors are responsible for administering the course in accordance with the University at Buffalo policies and this syllabus.  Faculty Instructors also determine final course grades consistent with the grading policy in this syllabus.
@@ -133,15 +133,15 @@ Student Instructors are responsible for running the class.  Most questions, unle
 			<td>Course &amp; Competitions</td>
 		</tr>
 		<tr>
-			<td>Work effectively in a team</td>
+			<td>Work Effectively in a Team</td>
 			<td>Project &amp; Competitions</td>
 		</tr>
 		<tr>
-			<td>Identify threats and vulnerabilities of systems</td>
+			<td>Identify Threats and Vulnerabilities of Systems</td>
 			<td>Course</td>
 		</tr>
         <tr>
-			<td>Effectively communicate via written reports and presentation skills</td>
+			<td>Effectively Communicate via Written Reports and Presentation Skills</td>
 			<td>Project &amp; Final Presentation</td>
 		</tr>
 	</tbody>
@@ -161,7 +161,7 @@ All students are required to participate fully in at least two cyber-security co
 	<p><i class="glyphicon glyphicon-info-sign"></i> This section is subject to change.</p>
 </div>
 
-<p>Homework will generally be assigned twice each week, and will likely be based on the topics in the <a href="#class-schedule">class schedule</a>. Unless otherwise specified, they will be released and submitted at <a href="https://homework.ubnetdef.org/">homework.ubnetdef.org</a> (the "Homework Engine").</p>
+<p>Homework will generally be assigned each week, and will likely be based on the topics in the <a href="#class-schedule">class schedule</a>. Unless otherwise specified, they will be released and submitted at <a href="https://homework.ubnetdef.org/">homework.ubnetdef.org</a> (the "Homework Engine").</p>
 
 
 ## Class Schedule
@@ -180,83 +180,80 @@ All students are required to participate fully in at least two cyber-security co
 	<tbody>
 		<tr>
 			<td>Week 1</td>
-			<td>ISSA Guest Speaker</td>
-			<td>Codecademy Command Line</td>
+			<td>Welcome to UBNetDef!</td>
+			<td>Join Mattermost, Create account on LucidChart</td>
 		</tr>
 		<tr>
 			<td>Week 2</td>
-			<td>Tim Mongan Guest Lecture</td>
-			<td>OverTheWire assignment</td>
-		</tr>
+			<td>Virtualization and Networking Basics</td>
+			<td>pfSense and Topology<tr>
 		<tr>
 			<td>Week 3</td>
-			<td>Networking and Virtualization</td>
-			<td>pfSense Runbook</td>
+			<td>Linux!</td>
+			<td>Over the Wire and Linux Clients</td>
 		</tr>
 		<tr>
 			<td>Week 4</td>
-			<td>Linux</td>
-			<td>Linux Setup</td>
+			<td>Windows</td>
+			<td>Active Directory</td>
 		</tr>
 		<tr>
 			<td>Week 5</td>
-			<td>Windows</td>
-			<td>Windows Runbook</td>
+			<td>Advanced Network</td>
+			<td>TBD</td>
 		</tr>
 		<tr>
 			<td>Week 6</td>
-			<td>ISSA Lock Picking Event</td>
-			<td></td>
+			<td>Services</td>
+			<td>TBD</td>
 		</tr>
 		<tr>
 			<td>Week 7</td>
-			<td>Governance and Risk Management</td>
-			<td>Executive Summary</td>
+			<td>Guest Lecture</td>
+			<td>Case Study</td>
 		</tr>
 		<tr>
 			<td>Week 8</td>
-			<td>Spring Recess</td>
-			<td></td>
+			<td>Case Study</td>
+			<td>TBD</td>
 		</tr>
 		<tr>
 			<td>Week 9</td>
-			<td>Firewalls and Services</td>
-			<td>Services Homework</td>
+			<td>Risk Management</td>
+			<td>Regulations and Business Impact</td>
 		</tr>
 		<tr>
 			<td>Week 10</td>
-			<td>Advanced Networking</td>
-			<td>Networking Homework</td>
+			<td>Firewalls</td>
+			<td>TBD</td>
 		</tr>
 		<tr>
 			<td>Week 11</td>
-			<td>Packet Analysis and Logs</td>
+			<td>Crytpo</td>
 			<td>TBD</td>
 		</tr>
 		<tr>
 			<td>Week 12</td>
-			<td>Working as a Team</td>
-			<td>TBD</td>
+			<td>Working as a Team + Lockdown Review</td>
+			<td>FInal Project</td>
 		</tr>
 		<tr>
 			<td>Week 13</td>
-			<td>TBA</td>
-			<td>Prepare for Lockdown</td>
+			<td>BREAK</td>
+			<td>Final Project</td>
 		</tr>
 		<tr>
 			<td>Week 14</td>
-			<td>Lockdown Debrief and Guest Lecture</td>
+			<td>Lockdown Debrief</td>
 			<td>Final Project</td>
 		</tr>
 		<tr>
 			<td>Week 15</td>
 			<td>TBA</td>
-			<td></td>
+			<td>Final Project</td>
 		</tr>
-
 	</tbody>
 </table>
-
 ## Getting Assistance
 The best way to request assistance is to ask on the `Systems Security` channel on UBNetDef’s chat server. The instructors and mentors are constantly on the server, so it’s likely you will get a response within 24-hours, if not less.  If you do not have access to the UBNetDef chat server, please contact an instructor.
 
@@ -272,35 +269,28 @@ The best way to request assistance is to ask on the `Systems Security` channel o
 			<tbody>
 				<tr>
 					<td>Attendence </td>
-					<td>25%</td>
+					<td>15%</td>
 				</tr>
 				<tr>
 					<td>Lockdown</td>
-					<td>20%</td>
+					<td>15%</td>
 				</tr>
 				<tr>
 					<td>Final Project</td>
-					<td>20%</td>
-				</tr>
-				<tr>
-					<td>Weekly Assignments</td>
 					<td>15%</td>
 				</tr>
 				<tr>
-					<td>Mini-Projects (Runbooks/Technical Documentation)</td>
-					<td>15%</td>
+					<td>Projects</td>
+					<td>50%</td>
 				</tr>
 				<tr>
 					<td>Extra Competition</td>
 					<td>5%</td>
 				</tr>
-	
 		       		<tr>
 					<td><strong>Total</strong></td>
 					<td><strong>100%</strong></td>
 				</tr>
-                
-                
 			</tbody>
 		</table>
 	</div>
