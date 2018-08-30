@@ -229,7 +229,7 @@ All students are required to participate fully in at least two cyber-security co
 		</tr>
 		<tr>
 			<td>Week 11</td>
-			<td>Crytpo</td>
+			<td>Crypto</td>
 			<td>SSH Keys, PGP, Encryption</td>
 		</tr>
 		<tr>
