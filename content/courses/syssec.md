@@ -199,7 +199,7 @@ All students are required to participate fully in at least two cyber-security co
 		</tr>
 		<tr>
 			<td>Week 5</td>
-			<td>Advanced Network</td>
+			<td>Advanced Networking</td>
 			<td>Active Directory Continued</td>
 		</tr>
 		<tr>
