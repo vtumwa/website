@@ -131,7 +131,7 @@ Due to the nature and complexity of the Security Development Program, prospectiv
 </table>
 
 # Course Requirements
-Coming soon
+You must have taken either Systems Security or Network Security in Fall 2016 or later.
 
 # Course Conduct
 ## Academic Integrity
