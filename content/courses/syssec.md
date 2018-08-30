@@ -181,7 +181,7 @@ All students are required to participate fully in at least two cyber-security co
 		<tr>
 			<td>Week 1</td>
 			<td>Welcome to UBNetDef!</td>
-			<td>Join Mattermost, Create account on LucidChart</td>
+			<td>Join Mattermost, Create account on LucidChart, Sign Ethics Policy</td>
 		</tr>
 		<tr>
 			<td>Week 2</td>
