@@ -9,8 +9,7 @@ semester: "Spring"
 year: 2018
 difficulty: "Beginner"
 
-active: true
-
+active: false
 subtext: "Spring 2018 / Jacobs B30 / Thursdays 6:30PM - 9:30PM"
 ---
 # Overview
