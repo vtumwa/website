@@ -1,6 +1,6 @@
 ---
 date: "2018-09-06"
-title: "Networking 101"
+title: "02 - Networking 101"
 
 course: "Systems Security"
 semester: "Fall"
