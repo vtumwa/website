@@ -101,6 +101,11 @@ Student Instructors are responsible for running the class.  Most questions, unle
 			<td>cdr-vcenter1.cse.buffalo.edu</td>
 		</tr>
 		<tr>
+		<tr>
+			<td>UB VPN</td>
+			<td>https://www.buffalo.edu/ubit/service-guides/connecting/vpn/computer.html - You need this to be able      to connect to vCenter while off campus or off network</td>
+		</tr>
+		<tr>
 			<td>vCenter Client</td>
 			<td><a href="https://ubnetdef.org/vcenter">https://ubnetdef.org/vcenter</a></td>
 		</tr>
