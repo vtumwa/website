@@ -11,10 +11,9 @@ slug: "networking101"
 navbar_active_link: "lectures"
 
 summary: |
-  Virtualize all the things!
+  Networking 192.168.1.101!
 
 slides: "/slides/fall2018/Networking_101.pdf"
-slides: "/slides/fall2018/Topology_Activity.pdf"
 
 has_page: true
 ---
