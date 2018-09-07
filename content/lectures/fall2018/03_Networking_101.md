@@ -11,7 +11,7 @@ slug: "networking101"
 navbar_active_link: "lectures"
 
 summary: |
-  Networking 192.168.1.101!
+  Networking 192.168.1.101
 
 slides: "/slides/fall2018/Networking_101.pdf"
 
