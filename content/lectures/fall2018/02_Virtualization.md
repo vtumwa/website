@@ -1,6 +1,6 @@
 ---
 date: "2018-09-06"
-title: "Virtualization"
+title: "01 - Virtualization"
 
 course: "Systems Security"
 semester: "Fall"
@@ -15,7 +15,7 @@ summary: |
 
 slides: "/slides/fall2018/Virtualization.pdf"
 
-has_page: true
+has_page: false
 ---
 
 
