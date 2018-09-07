@@ -15,7 +15,7 @@ summary: |
 
 slides: "/slides/fall2018/Networking_101.pdf"
 
-has_page: true
+has_page: false
 ---
 
 
