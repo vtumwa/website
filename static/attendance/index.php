@@ -1,4 +1,4 @@
 <?php
-$url = 'https://goo.gl/forms/aob1KJd4YEmONToD3';
+$url = 'https://goo.gl/forms/qVtiwBmxHmw4ErPI3';
 
 header('Location: ' . $url);
