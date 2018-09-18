@@ -194,18 +194,18 @@ All students are required to participate fully in at least two cyber-security co
 			<td>pfSense and Topology<tr>
 		<tr>
 			<td>Week 3</td>
-			<td>Linux!</td>
-			<td>Over the Wire and Linux Clients</td>
-		</tr>
-		<tr>
-			<td>Week 4</td>
 			<td>Windows</td>
 			<td>Windows Client, Install Active Directory</td>
 		</tr>
 		<tr>
+			<td>Week 4</td>
+			<td>Linux!</td>
+			<td>OverTheWire and Linux Clients</td>
+		</tr>
+		<tr>
 			<td>Week 5</td>
-			<td>Advanced Networking</td>
-			<td>Active Directory Continued</td>
+			<td>Firewalls</td>
+			<td>Palo Alto</td>
 		</tr>
 		<tr>
 			<td>Week 6</td>
