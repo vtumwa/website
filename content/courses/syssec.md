@@ -249,7 +249,7 @@ All students are required to participate fully in at least two cyber-security co
 		</tr>
 		<tr>
 			<td>Week 14</td>
-			<td>Lockdown Debrief</td>
+			<td>Lockdown Debrief and Guest Lecture: Jennifer Beckage</td>
 			<td>Final Project</td>
 		</tr>
 		<tr>
