@@ -186,15 +186,15 @@ All students are required to participate fully in at least two cyber-security co
 		<tr>
 			<td>Week 1</td>
 			<td>Welcome to UBNetDef!</td>
-			<td>Join Mattermost, Create account on LucidChart, Sign Ethics Policy</td>
+			<td>Join Mattermost, Create account on LucidChart, Sign Ethics Policy, Login to vCenter</td>
 		</tr>
 		<tr>
 			<td>Week 2</td>
 			<td>Virtualization and Networking Basics</td>
-			<td>pfSense and Topology<tr>
+			<td>pfSense Configuration and Topology<tr>
 		<tr>
 			<td>Week 3</td>
-			<td>Windows</td>
+			<td>Windows and Active Directory</td>
 			<td>Windows Client, Install Active Directory</td>
 		</tr>
 		<tr>
@@ -205,7 +205,7 @@ All students are required to participate fully in at least two cyber-security co
 		<tr>
 			<td>Week 5</td>
 			<td>Firewalls</td>
-			<td>Palo Alto</td>
+			<td>Palo Alto Labs</td>
 		</tr>
 		<tr>
 			<td>Week 6</td>
@@ -214,12 +214,12 @@ All students are required to participate fully in at least two cyber-security co
 		</tr>
 		<tr>
 			<td>Week 7</td>
-			<td>Guest Lecture</td>
+			<td>Guest Lecture: Tim Mongan</td>
 			<td>Case Study</td>
 		</tr>
 		<tr>
 			<td>Week 8</td>
-			<td>Case Study</td>
+			<td>Case Study Project and Resume Workshop</td>
 			<td>Rogue Machine Audit</td>
 		</tr>
 		<tr>
@@ -229,17 +229,17 @@ All students are required to participate fully in at least two cyber-security co
 		</tr>
 		<tr>
 			<td>Week 10</td>
-			<td>Firewalls</td>
-			<td>Firewalls: Host vs Network</td>
-		</tr>
-		<tr>
-			<td>Week 11</td>
 			<td>Crypto</td>
 			<td>SSH Keys, PGP, Encryption</td>
 		</tr>
 		<tr>
+			<td>Week 11</td>
+			<td>Lockdown Review + Teamwork</td>
+			<td>Rogue Machine Audit</td>
+		</tr>
+		<tr>
 			<td>Week 12</td>
-			<td>Working as a Team + Lockdown Review</td>
+			<td>TBD</td>
 			<td>Final Project</td>
 		</tr>
 		<tr>
