@@ -220,7 +220,7 @@ All students are required to participate fully in at least two cyber-security co
 		<tr>
 			<td>Week 8</td>
 			<td>Case Study Project and Resume Workshop</td>
-			<td>Rogue Machine Audit</td>
+			<td>TBD</td>
 		</tr>
 		<tr>
 			<td>Week 9</td>
