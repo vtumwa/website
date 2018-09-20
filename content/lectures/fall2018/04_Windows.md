@@ -5,7 +5,7 @@ title: "03 - Windows, Not Just for Houses!"
 course: "Systems Security"
 semester: "Fall"
 year: 2018
-author: "Vincent Bruno"
+author: "Ross Ventresca"
 
 slug: "windows"
 navbar_active_link: "lectures"
