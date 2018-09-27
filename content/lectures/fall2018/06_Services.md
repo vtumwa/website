@@ -1,18 +1,18 @@
 ---
 date: "2018-09-20"
-title: "05 - Linux Kung Fu"
+title: "06 - Wonderful World of Services"
 
 course: "Systems Security"
 semester: "Fall"
 year: 2018
-author: "Stephen James"
+author: "Vincent Bruno"
 
-slug: "linux"
+slug: "services"
 navbar_active_link: "lectures"
 
-summary: "A presentation about the basics of the linux operating system"
+summary: "Services? Who needs em!"
 
-slides: "/slides/fall2018/linux.pdf"
+slides: "/slides/fall2018/Services.pdf"
 
 has_page: false
 ---
