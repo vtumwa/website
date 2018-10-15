@@ -204,23 +204,23 @@ All students are required to participate fully in at least two cyber-security co
 		</tr>
 		<tr>
 			<td>Week 5</td>
-			<td>Firewalls</td>
-			<td>Palo Alto Labs</td>
+			<td>Services</td>
+			<td>LAMP Stack with a Twist</td>
 		</tr>
 		<tr>
 			<td>Week 6</td>
-			<td>Services</td>
-			<td>LAMP Stack</td>
+			<td>Firewalls + Work Session</td>
+			<td>No Assignment (:</td>
 		</tr>
 		<tr>
 			<td>Week 7</td>
 			<td>Guest Lecture: Tim Mongan</td>
-			<td>Case Study</td>
+			<td>Case Study, Hand out Case</td>
 		</tr>
 		<tr>
 			<td>Week 8</td>
 			<td>Case Study Project and Resume Workshop</td>
-			<td>TBD</td>
+			<td>Fix up Resume</td>
 		</tr>
 		<tr>
 			<td>Week 9</td>
@@ -234,12 +234,12 @@ All students are required to participate fully in at least two cyber-security co
 		</tr>
 		<tr>
 			<td>Week 11</td>
-			<td>Lockdown Review + Teamwork</td>
+			<td>ISSA Event + Lockdown Teamwork</td>
 			<td>Rogue Machine Audit</td>
 		</tr>
 		<tr>
 			<td>Week 12</td>
-			<td>TBD</td>
+			<td>Guest Lecture: Networking 102</td>
 			<td>Final Project</td>
 		</tr>
 		<tr>
