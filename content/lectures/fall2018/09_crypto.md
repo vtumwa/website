@@ -1,5 +1,5 @@
 ---
-date: "2018-09-27"
+date: "2018-11-01"
 title: "09 - On That Crypto"
 
 course: "Systems Security"
