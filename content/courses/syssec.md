@@ -102,7 +102,7 @@ Student Instructors are responsible for running the class.  Most questions, unle
 		</tr>
 		<tr>
 			<td>UB VPN</td>
-			<td>https://www.buffalo.edu/ubit/service-guides/connecting/vpn/computer.html - You need this to be able      to connect to vCenter while off campus or off network</td>
+			<td><a href="https://www.buffalo.edu/ubit/service-guides/connecting/vpn/computer.html">https://www.buffalo.edu/ubit/service-guides/connecting/vpn/computer.html</a> - You need this to be able      to connect to vCenter while off campus or off network</td>
 		</tr>
 		<tr>
 			<td>vCenter Client</td>
