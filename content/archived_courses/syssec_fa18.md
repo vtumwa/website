@@ -1,17 +1,17 @@
 ---
-date: "2019-01-17"
+date: "2018-10-21"
 title: "Systems Security"
 navbar_active_link: "courses"
 
 course: "Systems Security"
 course_number: 100
-semester: "Spring"
-year: 2019
+semester: "Fall"
+year: 2018
 difficulty: "Beginner"
 
 active: true
 
-subtext: "Spring 2019 / Jacobs B30 / Thursdays 6:30PM - 9:30PM"
+subtext: "Fall 2018 / Jacobs B30 / Thursdays 6:30PM - 9:30PM"
 ---
 # Overview
 During this introductory course, geared for students new to cybersecurity, students will be introduced to fundamental security topics.  Students will critically examine concepts such as basic networking, system administration, team dynamics and system security as well as identifying and applying basic security hardening techniques.  Students will gain practical experience through a virtualized lab environment where they will be building a small corporate network.
@@ -185,7 +185,7 @@ All students are required to participate fully in at least two cyber-security co
 		<tr>
 			<td>Week 1</td>
 			<td>Welcome to UBNetDef!</td>
-			<td>TBA</td>
+			<td>Join Mattermost, Create account on LucidChart, Sign Ethics Policy, Login to vCenter</td>
 		</tr>
 		<tr>
 			<td>Week 2</td>
@@ -194,68 +194,68 @@ All students are required to participate fully in at least two cyber-security co
 		</tr>
 		<tr>
 			<td>Week 3</td>
-			<td>TBA</td>
-			<td>TBA</td>
+			<td>Windows and Active Directory</td>
+			<td>Windows Client, Install Active Directory</td>
 		</tr>
 		<tr>
 			<td>Week 4</td>
-			<td>TBA</td>
-			<td>TBA</td>
+			<td>Linux!</td>
+			<td>OverTheWire and Linux Clients</td>
 		</tr>
 		<tr>
 			<td>Week 5</td>
-			<td>TBA</td>
-			<td>TBA</td>
+			<td>Firewalls</td>
+			<td>Palo Alto Labs</td>
 		</tr>
 		<tr>
 			<td>Week 6</td>
-			<td>Guest Speaker: Rich Davenport</td>
-			<td>TBA</td>
+			<td>Services</td>
+			<td>LAMP Stack</td>
 		</tr>
 		<tr>
 			<td>Week 7</td>
-			<td>TBA</td>
-			<td>TBA</td>
+			<td>Guest Lecture: Tim Mongan</td>
+			<td>Case Study</td>
 		</tr>
 		<tr>
 			<td>Week 8</td>
-			<td>Spring Break</td>
-			<td>TBA</td>
+			<td>Case Study Project and Resume Workshop</td>
+			<td>TBD</td>
 		</tr>
 		<tr>
 			<td>Week 9</td>
-			<td>TBA</td>
-			<td>TBA</td>
+			<td>Risk Management</td>
+			<td>Regulations and Business Impact</td>
 		</tr>
 		<tr>
 			<td>Week 10</td>
-			<td>TBA</td>
-			<td>TBA</td>
+			<td>Crypto</td>
+			<td>SSH Keys, PGP, Encryption</td>
 		</tr>
 		<tr>
 			<td>Week 11</td>
-			<td>TBA</td>
-			<td>TBA</td>
+			<td>Lockdown Review + Teamwork</td>
+			<td>Rogue Machine Audit</td>
 		</tr>
 		<tr>
 			<td>Week 12</td>
-			<td>Guest Speaker: Tim Mongan</td>
-			<td>TBA</td>
+			<td>TBD</td>
+			<td>Final Project</td>
 		</tr>
 		<tr>
 			<td>Week 13</td>
-			<td>TBA</td>
-			<td>TBA</td>
+			<td>BREAK</td>
+			<td>Final Project</td>
 		</tr>
 		<tr>
 			<td>Week 14</td>
-			<td>TBA</td>
-			<td>TBA</td>
+			<td>Lockdown Debrief and Guest Lecture: Jennifer Beckage</td>
+			<td>Final Project</td>
 		</tr>
 		<tr>
 			<td>Week 15</td>
 			<td>TBA</td>
-			<td>TBA</td>
+			<td>Final Project</td>
 		</tr>
 	</tbody>
 </table>
