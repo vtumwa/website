@@ -204,8 +204,23 @@ All students are required to participate fully in at least two cyber-security co
 		</tr>
 		<tr>
 			<td>Week 5</td>
-			<td>Firewalls</td>
-			<td>Palo Alto Labs</td>
+			<td>Services</td>
+			<td>LAMP Stack with a Twist</td>
+		</tr>
+		<tr>
+			<td>Week 6</td>
+			<td>Firewalls + Work Session</td>
+			<td>No Assignment (:</td>
+		</tr>
+		<tr>
+			<td>Week 7</td>
+			<td>Guest Lecture: Tim Mongan</td>
+			<td>Case Study, Hand out Case</td>
+		</tr>
+		<tr>
+			<td>Week 8</td>
+			<td>Case Study Project and Resume Workshop</td>
+			<td>Fix up Resume</td>
 		</tr>
 		<tr>
 			<td>Week 6</td>
@@ -239,8 +254,8 @@ All students are required to participate fully in at least two cyber-security co
 		</tr>
 		<tr>
 			<td>Week 12</td>
-			<td>TBD</td>
-			<td>Final Project</td>
+			<td>Crypto + Packet Analysis</td>
+			<td>SSH Keys, PGP, Encryption</td>
 		</tr>
 		<tr>
 			<td>Week 13</td>
