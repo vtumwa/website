@@ -54,9 +54,19 @@ Student Instructors are responsible for running the class.  Most questions, unle
 	</thead>
 	<tbody>
 		<tr>
+			<td>Aibek Zhylkaidarov</td>
+			<td>aibekzhy@buffalo.edu</td>
+			<td>l1ghtman</td>
+		</tr>
+		<tr>
 			<td>Alexander Bitar</td>
 			<td>abitar@buffalo.edu</td>
 			<td>alexanderbitar</td>
+		</tr>
+		<tr>
+			<td>Andrew Mavrogeorgis</td>
+			<td>apmavrog@buffalo.edu</td>
+			<td>amavs</td>
 		</tr>
 		<tr>
 			<td>Christopher Klimek</td>
@@ -64,14 +74,59 @@ Student Instructors are responsible for running the class.  Most questions, unle
 			<td>chrisklimek</td>
 		</tr>
 		<tr>
+			<td>Destiney Plaza</td>
+			<td>destiney@buffalo.edu</td>
+			<td>destiney</td>
+		</tr>
+		<tr>
+			<td>Grant Fowler</td>
+			<td>grantfow@buffalo.edu</td>
+			<td>fowler64</td>
+		</tr>
+		<tr>
+			<td>Jay Chen</td>
+			<td>jaychen@buffalo.edu</td>
+			<td>jay_c</td>
+		</tr>
+		<tr>
+			<td>Jerry Kappil</td>
+			<td>jerrykap@buffalo.edu</td>
+			<td>boopdoop</td>
+		</tr>
+		<tr>
+			<td>Ohad Katz</td>
+			<td>ohadkatz@buffalo.edu</td>
+			<td>ohadkatz</td>
+		</tr>
+		<tr>
+			<td>Paul Prawdzik</td>
+			<td>paulpraw@buffalo.edu</td>
+			<td>paulprawdz</td>
+		</tr>
+		<tr>
+			<td>Peter Gebura</td>
+			<td>pngebura@buffalo.edu</td>
+			<td>petergebura</td>
+		</tr>
+		<tr>
 			<td>Ross Ventresca</td>
 			<td>rossvent@buffalo.edu</td>
 			<td>ross</td>
 		</tr>
 		<tr>
+			<td>Shanelle Ileto</td>
+			<td>sdileto@buffalo.edu</td>
+			<td>shanelleileto</td>
+		</tr>
+		<tr>
 			<td>Stephen James</td>
 			<td>sjames5@buffalo.edu</td>
 			<td>stephenorjames</td>
+		</tr>
+		<tr>
+			<td>Tyler Suchan</td>
+			<td>tylersuc@buffalo.edu</td>
+			<td>suchanandsuch</td>
 		</tr>
 		<tr>
 			<td>Vincent Bruno</td>
