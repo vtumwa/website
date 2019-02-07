@@ -295,6 +295,9 @@ All students are required to participate fully in at least two cyber-security co
 			<td>TBA</td>
 		</tr>
 		<tr>
+			<td colspan="3"><em><a href="https://lockdown.ubnetdef.org/">Lockdown v6</a> - Saturday, April 27, 2019</em></td>
+		</tr>
+		<tr>
 			<td>Week 13</td>
 			<td>Risk Management; <br> Lockdown review</td>
 			<td>TBA</td>
