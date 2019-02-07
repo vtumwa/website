@@ -217,10 +217,6 @@ All students are required to participate fully in at least two cyber-security co
 
 
 ## Homework Assignments
-<div class="alert alert-info">
-	<p><i class="glyphicon glyphicon-info-sign"></i> This section is subject to change.</p>
-</div>
-
 <p>Homework will generally be assigned each week, and will likely be based on the topics in the <a href="#class-schedule">class schedule</a>. Unless otherwise specified, they will be released and submitted at <a href="https://homework.ubnetdef.org/">homework.ubnetdef.org</a> (the "Homework Engine").</p>
 
 
