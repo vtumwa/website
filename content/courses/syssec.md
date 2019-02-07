@@ -119,6 +119,11 @@ Student Instructors are responsible for running the class.  Most questions, unle
 			<td>shanelleileto</td>
 		</tr>
 		<tr>
+			<td>Sriniketh Varma Dasarraju</td>
+			<td>sriniket@buffalo.edu</td>
+			<td>srini</td>
+		</tr>
+		<tr>
 			<td>Stephen James</td>
 			<td>sjames5@buffalo.edu</td>
 			<td>stephenorjames</td>
