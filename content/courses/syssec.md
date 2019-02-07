@@ -184,28 +184,28 @@ All students are required to participate fully in at least two cyber-security co
 	<tbody>
 		<tr>
 			<td>Week 1</td>
-			<td>Welcome to UBNetDef!</td>
-			<td>TBA</td>
+			<td>Snow Day: no class</td>
+			<td>None</td>
 		</tr>
 		<tr>
 			<td>Week 2</td>
-			<td>Virtualization and Networking Basics</td>
-			<td>pfSense Configuration and Topology</td>
+			<td>Welcome to UBNetDef; <br> Virtualization and Networking Basics</td>
+			<td>pfSense runbook and network topology</td>
 		</tr>
 		<tr>
 			<td>Week 3</td>
-			<td>TBA</td>
-			<td>TBA</td>
+			<td>Windows</td>
+			<td>Configuring Active Directory Directory Services on Windows Server and clients</td>
 		</tr>
 		<tr>
 			<td>Week 4</td>
-			<td>TBA</td>
-			<td>TBA</td>
+			<td>Linux</td>
+			<td>OverTheWire</td>
 		</tr>
 		<tr>
 			<td>Week 5</td>
-			<td>TBA</td>
-			<td>TBA</td>
+			<td>Services</td>
+			<td>Setting up a LAMP stack</td>
 		</tr>
 		<tr>
 			<td>Week 6</td>
@@ -214,7 +214,7 @@ All students are required to participate fully in at least two cyber-security co
 		</tr>
 		<tr>
 			<td>Week 7</td>
-			<td>TBA</td>
+			<td>Networking</td>
 			<td>TBA</td>
 		</tr>
 		<tr>
