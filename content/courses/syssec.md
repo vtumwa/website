@@ -276,17 +276,17 @@ All students are required to participate fully in at least two cyber-security co
 		</tr>
 		<tr>
 			<td>Week 9</td>
-			<td>TBA</td>
-			<td>TBA</td>
+			<td>Firewalls</td>
+			<td>Configuring firewalls on pfSense, Linux, and Windows</td>
 		</tr>
 		<tr>
 			<td>Week 10</td>
-			<td>TBA</td>
+			<td>Case Study; <br> Resume Development</td>
 			<td>TBA</td>
 		</tr>
 		<tr>
 			<td>Week 11</td>
-			<td>TBA</td>
+			<td>Intrduction to Palo Alto NGFW</td>
 			<td>TBA</td>
 		</tr>
 		<tr>
@@ -296,7 +296,7 @@ All students are required to participate fully in at least two cyber-security co
 		</tr>
 		<tr>
 			<td>Week 13</td>
-			<td>TBA</td>
+			<td>Risk Management; <br> Lockdown review</td>
 			<td>TBA</td>
 		</tr>
 		<tr>
