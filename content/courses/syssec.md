@@ -211,6 +211,7 @@ Student Instructors are responsible for running the class.  Most questions, unle
 ## Lectures
 Attendance for all lectures is required. Two absences or late arrival is permitted without penalty. Greater than two means you recieve an F in the course. Students arriving late or unprepared may also receive a penalty at the discretion of the instructor. Absences due to illness may be excused if the instructor is notified in advance, and the illness is documented by a physician or healthcare professional.
 
+
 ## Competition Participation
 All students are required to participate fully in at least two cyber-security competitions, including the UB Lockdown competition. Various competitions will be announced throughout the academic semester.
 
@@ -240,7 +241,7 @@ All students are required to participate fully in at least two cyber-security co
 		<tr>
 			<td>Week 1</td>
 			<td>Snow Day: no class</td>
-			<td>None</td>
+			<td></td>
 		</tr>
 		<tr>
 			<td>Week 2</td>
